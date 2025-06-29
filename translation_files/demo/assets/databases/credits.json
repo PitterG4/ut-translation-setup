@@ -1,0 +1,735 @@
+{
+	"page1": {
+		"sections": [
+			{
+				"title": "A Video Game by",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/polychroma_games.png",
+					"size": "600"
+				}
+			}
+		]
+	},
+	"page2": {
+		"sections": [
+			{
+				"title": "Director",
+				"members": [
+					"Mickole Klein Nulud"
+				]
+			}
+		]
+	},
+	"page3": {
+		"sections": [
+			{
+				"title": "Writers",
+				"members": [
+					"Mariel Tuble",
+					"Mickole Klein Nulud",
+					"Harold Pongco"
+				]
+			}
+		]
+	},
+	"page4": {
+		"sections": [
+			{
+				"title": "Music & Sound Design",
+				"members": [
+					"Kyle Patrick Naval"
+				]
+			}
+		]
+	},
+	"page5": {
+		"sections": [
+			{
+				"title": "Programmers",
+				"members": [
+					"Mickole Klein Nulud",
+					"R.V.A.",
+					"Joshua James San Juan",
+					"Dave Von David"
+				]
+			},
+			{
+				"title": "Tools Programmer",
+				"members": [
+					"Matthew Rey"
+				]
+			}
+		]
+	},
+	"page6": {
+		"sections": [
+			{
+				"title": "Senior Art Director",
+				"members": [
+					"Dominique Duran"
+				]
+			},
+			{
+				"title": "Art Director",
+				"members": [
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page7": {
+		"sections": [
+			{
+				"title": "Senior Character Artist",
+				"members": [
+					"Gerald Dizon"
+				]
+			},
+			{
+				"title": "Character Artists",
+				"members": [
+					"Dominique Duran",
+					"Vanessa Sumo",
+					"Yanreh Termulo",
+					"Pia Demanawa",
+					"Rachelle Marie Reston",
+					"Clister Santos"
+				]
+			}
+		]
+	},
+	"page8": {
+		"sections": [
+			{
+				"title": "Senior Environment Artist",
+				"members": [
+					"Pia Demanawa"
+				]
+			},
+			{
+				"title": "Environment Artists",
+				"members": [
+					"Dominique Duran",
+					"Clister Santos",
+					"Gabriel Rodriguez",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page9": {
+		"sections": [
+			{
+				"title": "Animators",
+				"members": [
+					"Vanessa Sumo",
+					"Yanreh Termulo",
+					"Adel Garangan",
+					"Dominique Duran",
+					"Gerald Dizon",
+					"Marielle Amburgo",
+					"Clister Santos",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page10": {
+		"sections": [
+			{
+				"title": "Assistant Animators",
+				"members": [
+					"Ronalyn Lourdez Olivares",
+					"Kim Karlo Chua",
+					"kev_ryz",
+					"Baiyuu"
+				]
+			}
+		]
+	},
+	"page11": {
+		"sections": [
+			{
+				"title": "Senior Illustrator",
+				"members": [
+					"Pia Demanawa"
+				]
+			},
+			{
+				"title": "Illustrators",
+				"members": [
+					"Yanreh Termulo",
+					"Vanessa Sumo",
+					"Dominique Duran",
+					"Gerald Dizon",
+					"Marielle Amburgo",
+					"Ronalyn Lourdez Olivares",
+					"Kim Karlo Chua",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page13": {
+		"sections": [
+			{
+				"title": "Tech Artist",
+				"members": [
+					"Mickole Klein Nulud"
+				]
+			},
+			{
+				"title": "Art Interns",
+				"members": [
+					"Jasmine Azimi",
+					"Beatriz Brito"
+				]
+			}
+		]
+	},
+	"page15": {
+		"sections": [
+			{
+				"title": "Pre-production Artists",
+				"members": [
+					"Sharlene Yap",
+					"Sharmaine Gaw",
+					"Kiros Chua"
+				]
+			}
+		]
+	},
+	"pageMaximumBranding": {
+		"sections": [
+			{
+				"members": [
+					"Maximum Entertainment, LLC"
+				]
+			},
+			{
+				"members": [
+					"Maximum Entertainment UK Limited"
+				]
+			},
+			{
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/maximum_entertainment_logo_horizontal_wht.png",
+					"size": "400"
+				}
+			}
+		]
+	},
+	"pageMaximum1": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "Chief Executive Officer",
+				"members": [
+					"Christina Seelye"
+				]
+			},
+			{
+				"title": "Chief Financial Officer",
+				"members": [
+					"Deborah Bellange"
+				]
+			},
+			{
+				"title": "Chief Operating Officer",
+				"members": [
+					"Thierry Bonnefoi"
+				]
+			}
+		]
+	},
+	"pageMaximum2": {
+		"header": "",
+		"sections": [
+			{
+				"title": "President",
+				"members": [
+					"Shane Bierwith"
+				]
+			},
+			{
+				"title": "Executive Vice President of Production",
+				"members": [
+					"Derek Neal"
+				]
+			},
+			{
+				"title": "Global Studios Director",
+				"members": [
+					"Bruce Hayles"
+				]
+			}
+		]
+	},
+	"pageMaximum3": {
+		"header": "",
+		"sections": [
+			{
+				"title": "Producer",
+				"members": [
+					"Kosmas Stocking"
+				]
+			},
+			{
+				"title": "Associate Producers",
+				"members": [
+					"Gabe Zulli",
+					"Jeff Chiarelli",
+					"Rachel Heleva"
+				]
+			},
+			{
+				"title": "Production Intern",
+				"members": [
+					"John Mulligan"
+				]
+			}
+		]
+	},
+	"pageMaximum4": {
+		"header": "",
+		"sections": [
+			{
+				"title": "Release Manager",
+				"members": [
+					"Daniel Baron"
+				]
+			},
+			{
+				"title": "Associate Release Managers",
+				"members": [
+					"Paxton Wright",
+					"Michael Gu"
+				]
+			}
+		]
+	},
+	"pageMaximum5": {
+		"header": "",
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "QA Lead - Internal",
+				"members": [
+					"Kyle Smith"
+				]
+			},
+			{
+				"title": "QA Lead - External",
+				"members": [
+					"Ishaq Ali",
+					"Will Rubin"
+				]
+			},
+			{
+				"title": "QA Testers - Internal",
+				"members": [
+					"Chandler Vu",
+					"Noah Langell",
+					"Alejandro Ibarra",
+					"Nat Atlaw",
+					"Marion Bright"
+				]
+			},
+			{
+				"title": "QA Testers - External",
+				"members": [
+					"Ishaq Ali",
+					"Melissa Chapdelaine",
+					"Isabella Lipari",
+					"Steven MacCulloch",
+					"Will Rubin",
+					"Justin Workman"
+				]
+			}
+		]
+	},
+	"pageMaximum6": {
+		"sections": [
+			{
+				"title": "Business Development Manager",
+				"members": [
+					"Kael Barend"
+				]
+			},
+			{
+				"title": "Director of Marketing",
+				"members": [
+					"Tristan Corbett"
+				]
+			},
+			{
+				"title": "Brand Manager",
+				"members": [
+					"Ellen Plummer"
+				]
+			}
+		]
+	},
+	"pageMaximum7": {
+		"sections": [
+			{
+				"title": "Senior Product Marketing Manager",
+				"members": [
+					"Alex Van Lepp"
+				]
+			},
+			{
+				"title": "Director of Communications",
+				"members": [
+					"Joscelyn Willett"
+				]
+			},
+			{
+				"title": "Communications Associate",
+				"members": [
+					"Tara Whittington"
+				]
+			},
+			{
+				"title": "Influencer Relations Manager",
+				"members": [
+					"Geoff Mendicino"
+				]
+			}
+		]
+	},
+	"pageMaximum8": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"sections": [
+			{
+				"title": "Director of Creative Services",
+				"members": [
+					"Ryan Yount"
+				]
+			},
+			{
+				"title": "Senior Video Production Manager",
+				"members": [
+					"Mauricio Ageno"
+				]
+			},
+			{
+				"title": "Video Editor",
+				"members": [
+					"Sam Traxinger"
+				]
+			},
+			{
+				"title": "Lead Graphic Designer",
+				"members": [
+					"Elena Miller"
+				]
+			},
+			{
+				"title": "Senior Graphic Designer",
+				"members": [
+					"Gwendolyn Aguilar"
+				]
+			},
+			{
+				"title": "Senior Designer",
+				"members": [
+					"Simon Jones"
+				]
+			},
+			{
+				"title": "Graphic Designer",
+				"members": [
+					"Luke Bird"
+				]
+			},
+			{
+				"title": "Web Developer/Designer",
+				"members": [
+					"Jesse Morgan"
+				]
+			}
+		]
+	},
+	"pageMaximum9": {
+		"sections": [
+			{
+				"title": "Business/Data Analysts",
+				"members": [
+					"Boris Jokic",
+					"Andrew Waetzig",
+					"Sean Willett",
+					"Collin Kennedy",
+					"Hana Oshima"
+				]
+			}
+		]
+	},
+	"pageMaximum10": {
+		"sections": [
+			{
+				"title": "Director of Account Management",
+				"members": [
+					"Elizabeth Crowel"
+				]
+			},
+			{
+				"title": "Director of North American Retail",
+				"members": [
+					"Ana Raphael"
+				]
+			},
+			{
+				"title": "Director of Sales - UK & EMEA",
+				"members": [
+					"Gareth Hives"
+				]
+			}
+		]
+	},
+	"pageMaximum11": {
+		"sections": [
+			{
+				"title": "National Account Manager - UK & EMEA",
+				"members": [
+					"Annabel Landeryou"
+				]
+			},
+			{
+				"title": "Global Partner Director",
+				"members": [
+					"Debbie Hives"
+				]
+			},
+			{
+				"title": "Partner Manager",
+				"members": [
+					"Nathan Paine"
+				]
+			}
+		]
+	},
+	"pageMaximum12": {
+		"sections": [
+			{
+				"title": "Digital Sales Manager",
+				"members": [
+					"Kirill Borisov"
+				]
+			},
+			{
+				"title": "Partner Manager",
+				"members": [
+					"Ronnie Ferrans"
+				]
+			},
+			{
+				"title": "Partner Manager Intern",
+				"members": [
+					"Nicole Neckritz"
+				]
+			}
+		]
+	},
+	"pageMaximum13": {
+		"sections": [
+			{
+				"title": "Vice President of Operations",
+				"members": [
+					"Josh Langell"
+				]
+			},
+			{
+				"title": "Operations Associate",
+				"members": [
+					"Kyndra Bowen"
+				]
+			},
+			{
+				"title": "Purchasing Manager",
+				"members": [
+					"Kevin Galloway"
+				]
+			}
+		]
+	},
+	"pageMaximum14": {
+		"sections": [
+			{
+				"title": "Warehouse Assistant",
+				"members": [
+					"Yelena Tverdokhleb"
+				]
+			},
+			{
+				"title": "Shipping Supervisor",
+				"members": [
+					"Caleb Langell"
+				]
+			}
+		]
+	},
+	"pageMaximum15": {
+		"sections": [
+			{
+				"title": "Director of IT",
+				"members": [
+					"Trevor Seelye"
+				]
+			},
+			{
+				"title": "IT Associate",
+				"members": [
+					"Jon Westland"
+				]
+			}
+		]
+	},
+	"pageMaximum16": {
+		"sections": [
+			{
+				"title": "Director of People",
+				"members": [
+					"Emily Shepherd"
+				]
+			},
+			{
+				"title": "Senior Manager, People",
+				"members": [
+					"Lauren Helling"
+				]
+			},
+			{
+				"title": "Office Manager",
+				"members": [
+					"Alicia Gomez"
+				]
+			}
+		]
+	},
+	"pageMaximum17": {
+		"sections": [
+			{
+				"title": "Director of Accounting and Finance",
+				"members": [
+					"Helen Smith"
+				]
+			},
+			{
+				"title": "Senior Accountant",
+				"members": [
+					"Lulu Huang"
+				]
+			},
+			{
+				"title": "Financial Controller - UK",
+				"members": [
+					"Andrew Britton"
+				]
+			}
+		]
+	},
+	"pageMaximum18": {
+		"sections": [
+			{
+				"title": "Order Operations Manager",
+				"members": [
+					"Kirsty Roberts"
+				]
+			},
+			{
+				"title": "Sales Operations Associate",
+				"members": [
+					"Leah Brighton"
+				]
+			}
+		]
+	},
+	"pageMaximum19": {
+		"sections": [
+			{
+				"title": "In House Counsel",
+				"members": [
+					"Andrew Miller"
+				]
+			},
+			{
+				"title": "Accountants",
+				"members": [
+					"James Donovan",
+					"Karina Flores"
+				]
+			}
+		]
+	},
+	"pageSpecialThanks1": {
+		"sections": [
+			{ "members": ["Special thanks"] },
+			{ "title": "Indie Games Group Philippines" },
+			{ "title": "Virtual SEA" },
+			{ "title": "GameDevPH" },
+			{ "title": "SEAGamethetic" },
+			{ "title": "Regional Lead School for the Arts in Angono" },
+			{ "title": "Godot Foundation" }
+		]
+	},
+	"pageSpecialThanks2": {
+		"sections": [
+			{ "members": ["Special thanks"] },
+			{ "title": "Frank Meijer" },
+			{ "title": "Rachel Heleva" },
+			{ "title": "Kael Barend" },
+			{ "title": "Maximum Entertainment Playtesters" },
+			{ "title": "Our friends and families" }
+		]
+	},
+	"pageCcBy": {
+		"sections": [
+			{ "members": ["CC-BY-4.0 Attribution"] },
+			{ "title": "X Corp. - Twemoji" },
+			{ "title": "CERN - Photographs of the particle tracks in a bubble chamber" },
+			{ "title": "Freesound - pfranzen - Mashing on a computer keyboard" }
+		]
+	},
+	"pageInk": {
+		"sections": [
+			{
+				"title": "Dialogue system by Ink from Inkle Studios",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/ink_inkle.png",
+					"size": "200"
+				}
+			}
+		]
+	},
+	"pageGodot": {
+		"sections": [
+			{
+				"title": "Made with",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/godot_engine.png",
+					"size": "400"
+				}
+			}
+		]
+	},
+	"pageThanks": {
+		"sections": [
+			{
+				"title": "CRED_THANK_YOU"
+			}
+		]
+	},
+	"pageCopyright": {
+		"sections": [
+			{
+				"title": "Copyright © 2024 Polychroma Games"
+			}
+		]
+	}
+}

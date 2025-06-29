@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "Nanunumbalik na ang ekonomiya ng mundo kasabay ng paglago ng mga aktibidad sa negosyo, sabi ng UC DESA",
+                        "description": "Nagsimula nang manumbalik ang ekonomiya ng mundo matapos ang mapaminsalang epekto ng Ruling, naglabas ng isang ulat ang UC DESA noong Lunes, na binanggit ang mga indikasyon ng aktibidad ng negosyo kasunod ng mga pagsisikap sa rehabilitasyon ng mga pinuno ng mundo na nakatuon sa pagkakaroon ng trabaho.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Tampok] Ipangalandakan pinakamagagandang lihim ng Liamson",
+                        "description": "Tinaguriang food capital ng bansa, ang Liamson City ay kilala bilang isa sa mga pinakamagagandang lugar sa bansa para matuwa ang panlasa.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Tatakbo bilang pangulo sa 2016 ang artista sa pelikula na si Manuel Sikatin",
+                        "description": "Mukhang wala pa ring nagsasawang maghalal ng mga sikat na artista.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Malapit nang mapuno ang kapasidad ng mga ospital sa NCR habang dumarami ang mga kaso ng Ruling",
+                        "description": "Mahigit sa isang-katlo ng mga ospital sa NCR ay malapit nang mapuno kasabay ng pagdating ng mga biktima ng Ruling mula hilaga, na dulot ng pagbubukas ng mga kakaayos lang na highway.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "Nagsalita ang LGBTQ+ Youth laban sa diskriminasyon",
+                        "description": "Ito ang pinakahuling panawagan ng mga kabataang lider at volunteer ng Love For All.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Dumarami ang mga biktima ng Ruling na nagsisikanlong habang muling itinatayo ang mga highway",
+                        "description": "Kasunod ng pagtatayong muli ng mga highway at pangunahing mga kalsada, dumagsa sa kabisera ang mga biktima mula sa mga lugar na naapektuhan ng magnitude 8.2 na lindol sa Makarito para sa malawakang pangangalagang pangkalusugan at pagpapagamot.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Opinyon] Mga de-kuryenteng sasakyan: Walang kabuluhang pagbabago",
+                        "description": "Ipinapakita ng pag-aaral na ang mga de-kuryenteng sasakyan (electric vehicle, EV), kahit na maganda sa maraming aspeto, ay halos wala ring pakinabang pagdating sa global warming.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Nangako si Pres. Cojuangco ng mas marami pang proyektong pabahay at pagsasaayos",
+                        "description": "Nilalayon ng inter-agency task force para sa muling pagbangon sa \"The Ruling\" na makumpleto sa unang quarter sa susunod na taon ang lahat ng mga proyektong pabahay at pagsasaayos para sa mga nakaligtas, kabilang ang 15,000 silid-aralan at isang proyekto sa pagsasaayos ng footbridge na nagkakahalaga ng P20 milyon, sinabi ni Pres. Fernando Cojuangco sa isang panayam sa kaniya.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Pres. Cojuangco: Maayos na nakakalikas ang mga biktima ng Ruling",
+                        "description": "Ang tanggapan ng pangulo ay naglabas ng isang pahayag sa kasalukuyang mga pagsisikap ng gobyerno para sa pagbibigay ng bago at ligtas na kanlungan ng mga biktima ng Ruling at iba pang mga pangangailangan ng tao.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: Isinusubok na sa tao ang mango-banana hybrid",
+                        "description": "Inanunsyo ni Health Sec. Frankie Santos IX na nagsimula na kamakailan ang unang yugto ng pagsubok ng mga mango-banana hybrid sa mga tao.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "Ipinahayag ni SEC director Venecia ang mga kahingian sa mga executive ng gobyerno",
+                        "description": "Kahit makalipas ang isang taon mula nang alisin ang BDAF, patuloy na nakakapagbunyag ang NCI ng parami nang parami pang politiko at negosyanteng sangkot sa BDAF pork barrel scandal.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Nahaharap sa kasong money laundering ang isang senador sa gitna ng pork barrel scandal",
+                        "description": "Kinasuhan ng Korte Suprema ang umano'y pork barrel scam backer na si Sen. Alamano Mercado at apat sa kaniyang mga tauhan para sa mga pampublikong pondo na nakuha sa pamamagitan ng panunuhol at pandaraya sa ilalim ng BDAF.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Kinukuwestiyon ng hepe ng pulisya ang pagbili ng overpriced na bakuna",
+                        "description": "Kinuwestiyon ni Police Chief Gen. Somara Buendia nitong Huwebes si Health Sec. Dr. Frankie Santos sa pagbili ng 1 milyong set ng vaccine kits sa halagang P2,500 bawat isa, kumpara sa average market value nito na humigit-kumulang P1,000.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Mga biktima ng Ruling sa Bayanan, tinuligsa ang mabagal na tugon sa krisis",
+                        "description": "Sa lalawigan ng Bayanan sa Gitnang Luzon, humigit-kumulang 120 lokal na mangingisda at magsasaka ang nagtipon sa harap ng kanilang lokal na Crisis Response Office Unit upang magsalita laban sa walang ingat at mabagal na pagtugon sa kalamidad.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor nag-launch ng Christmas-themed na collection",
+                        "description": "Ngayong Pasko, maiba sa mga normie at stay on fleek sa Festive Collection ng ForeverColor!",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Tumutulong ang Greenlife sa mga evacuation center na ipagdiwang ang Pasko",
+                        "description": "Ipinagdiriwang ng mga evacuation center ang pag-asa at pagmamahal sa panahon ng pagsubok sa tulong ng mga donasyon at mga volunteer mula sa Greenlife ngayong Pasko.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "Nasiyahan si Pres. Cojuangco sa simpleng pagdiriwang ng Pasko kasama ang malapit na pamilya",
+                        "description": "Ngayong Pasko, nanatiling tapat si Pangulong Cojuangco sa diwa ng kaniyang kampanya sa pagkapangulo at nakiugnay sa ordinaryong tao sa pamamagitan ng simpleng hapunan kasama ang kaniyang pinakakatiwa-tiwalang pamilya.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Opinyon] Ang Panganib ng Fake News",
+                        "description": "Ito ang kapangyarihan ng disimpormasyon. Ito ang kabayaran ng disimpormasyon.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Timeline: Ang Ruling sa Pilipinas",
+                        "description": "Noong ika-12 ng Pebrero 2014, isang hindi maipaliwanag na kababalaghan ang pumutok sa buong mundo nang maraming natural na sakuna ang tumama sa iba't ibang bahagi ng mundo nang sabay-sabay sa loob ng 6 na oras.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Timeline: BDAF pork barrel scam",
+                        "description": "Timeline ng BDAF pork barrel scam.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Pinaigting ng mga LGU sa Silangang Visayas ang mga plano sa muling pagbangon mula sa pagbaha",
+                    "description": "Pinaiigting ng mga yunit ng lokal na pamahalaan ang mga pagsisikap at nakipagtulungan sa mga non-profit at mga organisasyong pinamumunuan ng mga volunteer upang bumuo ng maliliit na komunidad para bigyan ng matutuluyan ang mga biktima.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "VP Diosdado sa paggastos ng P69B na pondo para sa rehabilitasyon: No comment",
+                    "description": "Nang tanungin tungkol sa posibleng paglalahad kung paano ginamit ang P69B na mga pondo para sa rehabilitasyon sa loob diumano ng isang linggo, sumagot si Diosdado ng “No comment.”",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "VP Diosdado sa kakulangan sa pangangalagang pangkalusugan sa Gitnang Luzon: No comment",
+                    "description": "Nang tanungin tungkol sa patuloy na kakulangan sa lumalaking pangangailangan para sa mga serbisyo sa pangangalagang pangkalusugan sa Central Luzon at ilang bahagi ng Visayas, sumagot si Diosdado ng “No comment.”",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "VP Diosdado sa pagtaas ng kaniyang approval ratings: Naglilingkod lang ako sa taong bayan",
+                    "description": "Binanggit ni OVP Asst. Sec. Garci Gloria ang kumakalat na \"kamakailang mga alalahanin sa kalusugan\" ng bise presidente, at tinitiyak sa publiko na malusog si VP Diosdado.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "Ekonomiya ng mundo wala pang pahiwatig ng pagpapanumbalik, sabi ng UC DESA",
+                    "description": "Wala pang pahiwatig ng panunumbalik ang ekonomiya ng mundo pagkatapos ng mapaminsalang epekto ng The Ruling, naglabas ng ulat ang United Countries Department of Economic and Social Affairs noong Lunes, na isinasaad na halos walang aktibidad ng negosyo at pahiwatig ng global employment mula noong pagbagsak noong Pebrero 2014.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "DE: Tatlo sa apat na gusaling pampaaralan nangangailangan ng pagkukumpuni",
+                    "description": "Makikita sa isang pambansang pagtatasa ang isang nakababahalang pangangailangan para sa mga pagkukumpuni sa humigit-kumulang 75% ng mga gusaling pampaaralan sa buong bansa, mula sa elementarya hanggang sa mataas na edukasyon.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "Patuloy ang paglikas ng mga empleyado ng gobyerno sa mga lumang gusali ng gobyerno",
+                    "description": "Mga empleyado ng gobyerno na nagtatrabaho sa ilang makasaysayang gusali ng gobyerno, na karamihan ay itinayo noong unang bahagi hanggang kalagitnaan ng 1900s, inililikas simula ngayong araw kasunod ng lumalaking alalahanin tungkol sa kaligtasan sa istruktura.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "KRT-3 muling nagsara, napilitang maglakad ang mga pasahero sa riles",
+                    "description": "Isinara ang lahat ng istasyon ng KRT-3 kasunod ng isang insidente na kasalukuyang iniimbestigahan ng mga opisyal at inhinyero ng rapid transit line.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "Fake News ang Ruling",
+                "description": "Hindi naniniwala sa akin? Narito ang mga katunayan.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

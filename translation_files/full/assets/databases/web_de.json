@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "Weltwirtschaft erholt sich dank zunehmender Geschäftsaktivitäten, sagt VL RWAS",
+                        "description": "Wie der Rat für wirtschaftliche und soziale Angelegenheiten der Vereinten Länder (VL RWAS) am Montag in einem Bericht mitteilte, beginnt die Weltwirtschaft sich nach den desaströsen Auswirkungen der Katastrophe wieder zu erholen. Die positive Konjunkturentwicklung ist ein Resultat der Bemühungen der Staats- und Regierungschefs, Arbeitsplätze zu schaffen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Feature] Liamsons bestgehütete Geheimnisse",
+                        "description": "Liamson City, die sogenannte Food-Hauptstadt, gilt als bester Ort im Land, um die Geschmacksnerven zu verwöhnen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Filmstar Manuel Sikatin will 2016 für das Präsidentenamt kandidieren",
+                        "description": "Es scheint, als hätte noch niemand genug davon, dass Schauspieler aus Blockbuster-Filmen das Land regieren.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Nach Zustrom von Katastrophenopfern droht Überlastung der Krankenhäuser in der Hauptstadtregion",
+                        "description": "Mehr als ein Drittel der Krankenhäuser in der Hauptstadtregion sind nahezu voll ausgelastet, da durch die Öffnung der neu gebauten Autobahnen tausende Betroffene der Katastrophe aus dem Norden eintreffen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "LGBTQ+-Jugend spricht sich gegen Diskriminierung aus",
+                        "description": "Darauf wollen die Jungendleiter und Freiwilligen von Love For All mit ihrem jüngsten Aufruf zum Handeln aufmerksam machen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Eine Flut von Katastrophenopfern sucht Zuflucht, während Autobahnen saniert werden",
+                        "description": "Nach der Sanierung von Autobahnen und Hauptverkehrsstraßen strömen die Betroffenen des Erdbebens der Stärke 8,2 in Makarito nun in die Hauptstadt, um sich umfassend medizinisch behandeln zu lassen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Meinung] Elektroautos: Eine unsinnige Verschiebung",
+                        "description": "Studien zeigen, dass Elektrofahrzeuge, obwohl sie in vielerlei Hinsicht großartig sind, praktisch nichts gegen die globale Erderwärmung ausrichten.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Präsident Cojuangco verspricht mehr Wohnungsbau- und Sanierungsprojekte",
+                        "description": "Die behördenübergreifende Taskforce für den „Wiederaufbau nach der Katastrophe“ will im ersten Quartal des nächsten Jahres alle Wohnprojekte und Sanierungsarbeiten für die Überlebenden abgeschlossen haben, darunter auch den Bau von 15.000 Klassenzimmern und die Sanierung einer Fußgängerbrücke, die 20 Millionen Pesos kosten wird, gab Präsident Fernando Conjuangco in seinem Interview bekannt.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Präsident Cojuangco: Die Evakuierung der Betroffenen der Katastrophe verläuft reibungslos",
+                        "description": "Das Präsidialamt gab eine Erklärung zu den aktuellen Bemühungen der Regierung ab, den Betroffenen der Katastrophe sichere Unterkünfte und andere humanitäre Hilfsgüter bereitzustellen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: Mango-Bananen-Hybrid wird an Menschen getestet",
+                        "description": "Gesundheitsminister Frankie Santos IX gab bekannt, dass die erste Erprobungsphase von Mango-Bananen-Hybriden am Menschen vor Kurzem begonnen hat.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "BAB-Direktor Venecia stellt Forderungen an die Regierung",
+                        "description": "Auch ein Jahr nach der Abschaffung des Basisentwicklungshilfsfonds (BEHF) deckt die Nationale Untersuchungskommission immer mehr Politiker und Geschäftsleute auf, die in den BEHF-Skandal verwickelt sind.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Senator droht Anklage wegen Geldwäscherei in BEHF-Skandal",
+                        "description": "Der Oberste Gerichtshof hat Senator Almano Mercado und vier seiner Mitarbeiter wegen Bestechung und Betrug im Rahmen des BEHF angeklagt.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Polizeichefin stellt Kauf von überteuertem Impfstoff infrage",
+                        "description": "Polizeichefin General Somara Buendia befragte am Donnerstag Gesundheitsminister Dr. Frankie Santos IX, der den Kauf von einer Million Impfstoffsets zum Preis von je 2.500 PHP, statt zum üblichen Marktpreis von etwa 1.000 PHP in Auftrag gegeben hat.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Betroffene der Katastrophe in Bayanan verurteilen die zögerliche Reaktion auf die Krise",
+                        "description": "In der Provinz Bayanan in Zentral-Luzon versammelten sich rund 120 Fischer und Landwirte vor dem örtlichen Krisenreaktionsbüro, um sich gegen die unzureichende und langsame Reaktion auf die Verwüstungen auszusprechen.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor bringt Weihnachtskollektion auf den Markt",
+                        "description": "Hebe dich diese Weihnachten von den Normalos ab und sei superlässig mit der Weihnachtskollektion von ForeverColor!",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife hilft, Weihnachten in den Evakuierungszentren zu feiern",
+                        "description": "Mithilfe von Spenden und der Unterstützung durch freiwillige Helfer von Greenlife kann in den Evakuierungszentren auch in diesen schwierigen Zeiten ein Weihnachtsfest voller Hoffnung und Liebe gefeiert werden.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "Präsident Cojuangco genießt gediegenes Weihnachtsfest mit seiner Familie",
+                        "description": "Diese Weihnachten besann sich Präsident Cojuangco auf seine Wurzeln, die man noch aus dem Präsidentschaftswahlkampf kennt, und genoss ein einfaches Abendessen im Kreise seiner engsten Familie – so wie jeder normale Mensch.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Meinung] Die Gefahren von Fake News",
+                        "description": "Das ist die Macht der Desinformation. Das ist der Preis der Desinformation.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Ablauf: Die Katastrophe auf den Philippinen",
+                        "description": "Am 12. Februar 2014 kam es auf dem ganzen Globus zu einem unerklärlichen Phänomen, als in einem Zeitraum von sechs Stunden eine Vielzahl von Naturkatastrophen gleichzeitig über verschiedene Teile der Welt hereinbrach.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Ablauf: BEHF-Skandal",
+                        "description": "Der Ablauf des BEHF-Skandals.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Lokalregierungen verstärken ihren Einsatz gegen die Überschwemmungen in den östlichen Visayas",
+                    "description": "Die lokalen Behörden verstärken ihre Bemühungen und haben sich mit gemeinnützigen und von Freiwilligen geleiteten Organisationen zusammengetan, um Unterkünfte für die Opfer zu bauen.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "VP Diosdado zu den Ausgaben der 69 Milliarden aus dem Sanierungsfonds: Kein Kommentar",
+                    "description": "Auf die Frage, wofür die Sanierungsmittel in Höhe von 69 Milliarden PHP in einer durchschnittlichen Woche ausgegeben werden, antwortete Diosdado lediglich mit: „Kein Kommentar.“",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "VP Diosdado zu der mangelnden medizinischen Versorgung in Zentral-Luzon: Kein Kommentar",
+                    "description": "Auf Nachfrage zu der anhaltend mangelhaften Gesundheitsversorgung in Zentral-Luzon und in Teilen der Visayas sagte Diosdado: „Kein Kommentar.“",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "VP Diosdado zu ihren steigenden Zustimmungswerten: Ich diene nur dem Volk",
+                    "description": "Der stellvertretende Vizepräsident Garci Gloria verwies auf die „jüngsten gesundheitlichen Probleme“ der Vizepräsidentin und versicherte der Öffentlichkeit, dass VP Diosdado gesund sei.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "Weltwirtschaft zeigt noch keine Anzeichen für Erholung, sagt VL RWAS",
+                    "description": "Wie der Rat für wirtschaftliche und soziale Angelegenheiten der Vereinten Länder (VL RWAS) am Montag in einem Bericht mitteilte, zeigt die Weltwirtschaft nach den desaströsen Auswirkungen der Katastrophe noch keine Anzeichen für Erholung. Die Wirtschaftstätigkeit und die Beschäftigungsindikatoren hätten sich seit dem Crash im Februar 2014 kaum verändert.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "BM: Drei von vier Schulgebäuden müssen saniert werden",
+                    "description": "Eine landesweite Erhebung hat ergeben, dass bei etwa 75 % aller Schulgebäude, von Grund- bis zu Hochschulen, ein erheblicher Reparaturbedarf besteht.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "Evakuierung alter Regierungsgebäude läuft",
+                    "description": "Regierungsangestellte, die in mehreren historischen Regierungsgebäuden arbeiten, welche größtenteils Anfang bis Mitte des 20. Jahrhunderts errichtet wurden, werden ab heute evakuiert, da zunehmend Bedenken hinsichtlich der baulichen Sicherheit bestehen.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "KRT-3 wird wieder stillgelegt, Fahrgäste müssen über Gleise gehen",
+                    "description": "Alle KRT-3-Stationen wurden nach einem Vorfall, der derzeit von Beamten und Ingenieuren der Schnellbahnlinie untersucht wird, geschlossen.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "Die Katastrophe ist ein Schwindel",
+                "description": "Sie glauben mir nicht? Das sind die Fakten.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

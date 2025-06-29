@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "DAES (OPU): le attività commerciali sospingono la ripresa dell'economia mondiale",
+                        "description": "Il rapporto di lunedì del Dipartimento per gli affari economici e sociali dell'Organizzazione dei Paesi Uniti basato sugli indicatori delle attività commerciali ha sottolineato come gli sforzi dei leader mondiali a favore dell'occupazione abbiano aiutato la ripresa dell'economia mondiale dopo il disastroso impatto del Cataclisma.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Speciale] Facciamo luce sui segreti di Liamson",
+                        "description": "Soprannominata la capitale gastronomica della nazione, Liamson City è celebre per essere una delle migliori località del paese per soddisfare le proprie papille gustative.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Manuel Sikatin candidato alla presidenza per le elezioni 2016",
+                        "description": "Sembra che nessuno si sia ancora stancato di permettere ad attori famosi di prendere le redini del paese.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Ospedali della RCN quasi pieni per le vittime del Cataclisma",
+                        "description": "I posti letto di oltre un terzo degli ospedali della RCN stanno per esaurirsi a causa di un'ondata di vittime del Cataclisma dal nord, resa possibile grazie alla ricostruzione delle autostrade.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "I giovani LGBTQ+ contro le discriminazioni",
+                        "description": "È su questo che i leader giovanili e i volontari di Love For All richiamano l'attenzione nel loro più recente appello.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Un'ondata di vittime del Cataclisma trova rifugio",
+                        "description": "In seguito alla ricostruzione delle autostrade e delle arterie principali, le vittime delle aree colpite dal terremoto di magnitudo 8,2 di Makarito si stanno riversando sulla capitale per ricevere cure e assistenza sanitaria.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Editoriale] Auto elettriche: un cambiamento inutile",
+                        "description": "Uno studio dimostra che i veicoli elettrici, sebbene ottimi sotto molti aspetti, sono praticamente inutili contro il riscaldamento globale.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Il presidente Cojuangco promette più abitazioni e ristrutturazioni",
+                        "description": "Durante un'intervista, il presidente Cojuangco ha riferito che la Task force congiunta per il recupero dal Cataclisma prevede di completare tutti i progetti abitativi e le ristrutturazioni destinati ai sopravvissuti nel primo trimestre del prossimo anno. Tra di essi sono incluse 15.000 aule e un progetto per la ristrutturazione di un ponte pedonale da 20 milioni.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Presidente Cojuangco: l'evacuazione procede senza intoppi",
+                        "description": "L'Ufficio del presidente ha rilasciato una dichiarazione sugli sforzi del governo atti a fornire alle vittime del Cataclisma nuovi alloggi sicuri e altri sostegni umanitari.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: ibrido tra mango e banana sottoposto a test sugli esseri umani",
+                        "description": "Il ministro della salute Frankie Santos IX ha annunciato l'inizio della prima fase di sperimentazione degli ibridi tra mango e banana sugli esseri umani.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "Il direttore della CTS Venecia esige risposte dal governo",
+                        "description": "A un anno dall'abolizione del FASB, la CNI smaschera sempre più politici e uomini d'affari implicati nello scandalo delle marchette elettorali.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Senatore accusato di riciclaggio per lo scandalo del FASB",
+                        "description": "La Corte suprema ha accusato il senatore Alamano Mercado, presunto artefice della truffa, e quattro membri del suo staff per corruzione e riciclaggio dei fondi pubblici del FASB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Il capo della polizia indaga sull'acquisto del vaccino",
+                        "description": "Giovedì scorso il generale Somara Buendia, capo della polizia, ha interrogato il ministro della salute dottor Frankie Santos sull'acquisto di 1 milione di dosi di vaccino a 2.500 pesos cadauna, anziché al prezzo medio di mercato di circa 1.000 pesos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "A Bayanan le vittime del Cataclisma protestano per la lenta risposta",
+                        "description": "Nella provincia di Bayanan nel Luzon Centrale circa 120 persone, principalmente pescatori e contadini, si sono radunate di fronte all'ufficio dell'Unità di risposta alla crisi per protestare contro la lenta e irresponsabile risposta alla calamità.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor lancia una collezione a tema natalizio",
+                        "description": "A Natale separati dal gregge e sfoggia un look perfetto con la collezione festiva di ForeverColor!",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife aiuta i centri d'evacuazione a celebrare il Natale",
+                        "description": "A Natale i centri d'evacuazione celebrano la speranza e l'amore in tempi difficili con l'aiuto delle donazioni e dei volontari di Greenlife.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "Il presidente Cojuangco celebra il Natale sobriamente in famiglia",
+                        "description": "A Natale il presidente Cojuangco è rimasto fedele ai proclami della sua campagna presidenziale ed è entrato in sintonia con la vita quotidiana dell'uomo comune godendosi un semplice pranzo con i suoi più stretti familiari.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Editoriale] Il pericolo delle fake news",
+                        "description": "Questo è il potere della disinformazione. Questo è il prezzo della disinformazione.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Cronologia: il Cataclisma nelle Filippine",
+                        "description": "Il 12 febbraio 2014 si è scatenato un fenomeno inspiegabile che ha coinvolto tutto il globo: una serie di catastrofi naturali ha colpito varie parti del mondo nel lasso di 6 ore.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Cronologia: la truffa del FASB",
+                        "description": "Cronologia della truffa del FASB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Gli enti del Visayas Orientale accelerano i piani per il recupero dalle inondazioni",
+                    "description": "Gli enti locali stanno intensificando gli sforzi in collaborazione con le organizzazioni no-profit e i volontari per costruire piccole comunità in cui ospitare le vittime.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "Diosdado sulle spese del fondo per il recupero: no comment",
+                    "description": "Quando le è stato chiesto come sia stato possibile che il fondo per il recupero da 69 miliardi di pesos fosse stato esaurito nel giro di una settimana, la vicepresidentessa Diosdado ha risposto \"No comment\".",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "Diosdado sulle carenze della sanità del Luzon Centrale: no comment",
+                    "description": "Quando le è stato chiesto delle continue carenze e delle crescenti necessità dei servizi sanitari nel Luzon Centrale e in parti del Visayas, Diosdado ha risposto \"No comment\".",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "Diosdado sull'aumento della sua approvazione: mi limito a servire il popolo",
+                    "description": "Garci Gloria, assistente alla segreteria dell'Ufficio della vicepresidentessa, cita le \"recenti preoccupazioni sulla salute\" della vicepresidentessa e rassicura il pubblico che la vicepresidentessa Diosdado sta benissimo.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "DAES (OPU): l'economia mondiale non mostra segni di ripresa",
+                    "description": "Il rapporto di lunedì del Dipartimento per gli affari economici e sociali dell'Organizzazione dei Paesi Uniti basato sugli indicatori delle attività commerciali e sugli indicatori globali dell'occupazione ha avvertito che l'economia mondiale non mostra segni di ripresa dopo il crash del febbraio 2014 dovuto al disastroso impatto del Cataclisma.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "Ministero dell'Istruzione: il 75% delle scuole necessita di riparazioni",
+                    "description": "Una valutazione a livello nazionale rivela un dato allarmante: il 75% degli edifici scolastici del paese necessita di riparazioni, dall'istruzione primaria a quella superiore.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "Evacuazione dei dipendenti pubblici in edifici storici",
+                    "description": "A partire da oggi, i dipendenti pubblici che lavorano in edifici storici, costruiti per lo più tra l'inizio e la metà del XX secolo, verranno evacuati a causa delle crescenti preoccupazioni sulla loro sicurezza strutturale.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "La linea KRT-3 chiude di nuovo, passeggeri costretti a camminare sui binari",
+                    "description": "Tutte le stazioni della KRT-3 sono state chiuse a seguito di un incidente oggetto di indagine da parte dei funzionari e degli ingegneri della linea.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "Il Cataclisma è una bufala",
+                "description": "Non mi credete? Ecco i fatti.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,398 @@
+{
+  "paths": {
+    "pre_opening": "res://scenes/_cutscenes/pre_opening/PreOpening.tscn",
+    "credits": "res://scenes/_cutscenes/credits/Credits.tscn",
+
+    "1.1a": "res://scenes/_main/ch1sc1a/Ch1Sc1a.tscn",
+    "1.1b": "res://scenes/_main/ch1sc1b/Ch1Sc1b.tscn",
+    "1.1c": "res://scenes/_main/ch1sc1c/Ch1Sc1c.tscn",
+    "1.2": "res://scenes/_main/ch1sc2/Ch1Sc2.tscn",
+    "1.3": "res://scenes/_main/ch1sc3/Ch1Sc3.tscn",
+    "1.4": "res://scenes/_main/ch1sc4/Ch1Sc4.tscn",
+    "1.5a": "res://scenes/_main/ch1sc5a/Ch1Sc5a.tscn",
+    "1.6": "res://scenes/_main/ch1sc6/Ch1Sc6.tscn",
+    "1.7b": "res://scenes/_main/ch1sc7b/Ch1Sc7b.tscn",
+    "1.7c": "res://scenes/_main/ch1sc7c/Ch1Sc7c.tscn",
+    "1.7e": "res://scenes/_main/ch1sc7e/Ch1Sc7e.tscn",
+    "1.8": "res://scenes/_main/ch1sc8/Ch1Sc8.tscn",
+
+    "2.1": "res://scenes/_main/ch2sc1/Ch2Sc1.tscn",
+    "2.2a": "res://scenes/_main/ch2sc2a/Ch2Sc2a.tscn",
+    "2.2b": "res://scenes/_main/ch2sc2b/Ch2Sc2b.tscn",
+    "2.2c": "res://scenes/_main/ch2sc2c/Ch2Sc2c.tscn",
+    "2.3": "res://scenes/_main/ch2sc3/Ch2Sc3.tscn",
+    "2.4": "res://scenes/_main/ch2sc4/Ch2Sc4.tscn",
+    "2.5a": "res://scenes/_main/ch2sc5a/Ch2Sc5a.tscn",
+    "2.5b": "res://scenes/_main/ch2sc5b/Ch2Sc5b.tscn",
+
+    "3.1": "res://scenes/_main/ch3sc1/Ch3Sc1.tscn",
+    "3.2a": "res://scenes/_main/ch3sc2a/Ch3Sc2a.tscn",
+    "3.2b": "res://scenes/_main/ch3sc2b/Ch3Sc2b.tscn",
+    "3.3a": "res://scenes/_main/ch3sc3a/Ch3Sc3a.tscn",
+    "3.3b": "res://scenes/_main/ch3sc3b/Ch3Sc3b.tscn",
+    "3.4a": "res://scenes/_main/ch3sc4a/Ch3Sc4a.tscn",
+    "3.4b": "res://scenes/_main/ch3sc4b/Ch3Sc4b.tscn",
+    "3.4c": "res://scenes/_main/ch3sc4c/Ch3Sc4c.tscn",
+    "3.4d": "res://scenes/_main/ch3sc4d/Ch3Sc4d.tscn",
+    "3.4e": "res://scenes/_main/ch3sc4e/Ch3Sc4e.tscn",
+
+    "4.1a": "res://scenes/_main/ch4sc1a/Ch4Sc1a.tscn",
+    "4.1b": "res://scenes/_main/ch4sc1b/Ch4Sc1b.tscn",
+    "4.2a": "res://scenes/_main/ch4sc2a/Ch4Sc2a.tscn",
+    "4.2b": "res://scenes/_main/ch4sc2b/Ch4Sc2b.tscn",
+    "4.3a": "res://scenes/_main/ch4sc3a/Ch4Sc3a.tscn",
+    "4.3b": "res://scenes/_main/ch4sc3b/Ch4Sc3b.tscn",
+    "4.4a": "res://scenes/_main/ch4sc4a/Ch4Sc4a.tscn",
+    "4.4b": "res://scenes/_main/ch4sc4b/Ch4Sc4b.tscn",
+
+    "5.1": "res://scenes/_main/ch5sc1/Ch5Sc1.tscn",
+    "5.2": "res://scenes/_main/ch5sc2/Ch5Sc2.tscn",
+    "5.3": "res://scenes/_main/ch5sc3/Ch5Sc3.tscn",
+    "5.4": "res://scenes/_main/ch5sc4/Ch5Sc4.tscn",
+    "5.5": "res://scenes/_main/ch5sc5/Ch5Sc5.tscn",
+    "5.6": "res://scenes/_main/ch5sc6/Ch5Sc6.tscn",
+    "5.7": "res://scenes/_main/ch5sc7/Ch5Sc7.tscn",
+    "5.8": "res://scenes/_main/ch5sc8/Ch5Sc8.tscn",
+    "5.9": "res://scenes/_main/ch5sc9/Ch5Sc9.tscn",
+    "5.10a": "res://scenes/_main/ch5sc10a/Ch5Sc10a.tscn",
+    "5.10b": "res://scenes/_main/ch5sc10b/Ch5Sc10b.tscn",
+    "5.11": "res://scenes/_main/ch5sc11/Ch5Sc11.tscn",
+    "5.12": "res://scenes/_main/ch5sc12/Ch5Sc12.tscn",
+
+    "6.1a": "res://scenes/_main/ch6sc1a/Ch6Sc1a.tscn",
+    "6.1b": "res://scenes/_main/ch6sc1b/Ch6Sc1b.tscn",
+    "6.1c": "res://scenes/_main/ch6sc1c/Ch6Sc1c.tscn",
+    "6.2": "res://scenes/_main/ch6sc2/Ch6Sc2.tscn",
+    "6.3": "res://scenes/_main/ch6sc3/Ch6Sc3.tscn",
+    "6.4": "res://scenes/_main/ch6sc4/Ch6Sc4.tscn",
+    "6.5": "res://scenes/_main/ch6sc5/Ch6Sc5.tscn",
+    "6.6": "res://scenes/_main/ch6sc6/Ch6Sc6.tscn",
+    "6.7a": "res://scenes/_main/ch6sc7a/Ch6Sc7a.tscn",
+    "6.7b": "res://scenes/_main/ch6sc7b/Ch6Sc7b.tscn",
+    "6.7c": "res://scenes/_main/ch6sc7c/Ch6Sc7c.tscn",
+    "6.8": "res://scenes/_main/ch6sc8/Ch6Sc8.tscn",
+
+    "7.1": "res://scenes/_main/ch7sc1/Ch7Sc1.tscn",
+    "7.2a": "res://scenes/_main/ch7sc2a/Ch7Sc2a.tscn",
+    "7.2b": "res://scenes/_main/ch7sc2b/Ch7Sc2b.tscn",
+    "7.2c": "res://scenes/_main/ch7sc2c/Ch7Sc2c.tscn",
+    "7.3": "res://scenes/_main/ch7sc3/Ch7Sc3.tscn",
+    "7.4a": "res://scenes/_main/ch7sc4a/Ch7Sc4a.tscn",
+    "7.4b": "res://scenes/_main/ch7sc4b/Ch7Sc4b.tscn",
+    "7.5": "res://scenes/_main/ch7sc5/Ch7Sc5.tscn",
+
+    "8.1": "res://scenes/_main/ch8sc1/Ch8Sc1.tscn",
+    "8.2a": "res://scenes/_main/ch8sc2a/Ch8Sc2a.tscn",
+    "8.2b": "res://scenes/_main/ch8sc2b/Ch8Sc2b.tscn",
+    "8.3a": "res://scenes/_main/ch8sc3a/Ch8Sc3a.tscn",
+    "8.3b": "res://scenes/_main/ch8sc3b/Ch8Sc3b.tscn",
+    "8.4a": "res://scenes/_main/ch8sc4a/Ch8Sc4a.tscn",
+    "8.4b": "res://scenes/_main/ch8sc4b/Ch8Sc4b.tscn",
+    "8.4c": "res://scenes/_main/ch8sc4c/Ch8Sc4c.tscn",
+    "8.4d": "res://scenes/_main/ch8sc4d/Ch8Sc4d.tscn",
+    "8.4e": "res://scenes/_main/ch8sc4e/Ch8Sc4e.tscn",
+
+    "9.1a": "res://scenes/_main/ch9sc1a/Ch9Sc1a.tscn",
+    "9.1b": "res://scenes/_main/ch9sc1b/Ch9Sc1b.tscn",
+    "9.2a": "res://scenes/_main/ch9sc2a/Ch9Sc2a.tscn",
+    "9.2b": "res://scenes/_main/ch9sc2b/Ch9Sc2b.tscn",
+    "9.3a": "res://scenes/_main/ch9sc3a/Ch9Sc3a.tscn",
+    "9.3b": "res://scenes/_main/ch9sc3b/Ch9Sc3b.tscn",
+
+    "10.1a": "res://scenes/_main/ch10sc1a/Ch10Sc1a.tscn",
+    "10.1b": "res://scenes/_main/ch10sc1b/Ch10Sc1b.tscn",
+    "10.1c": "res://scenes/_main/ch10sc1c/Ch10Sc1c.tscn",
+    "10.1d": "res://scenes/_main/ch10sc1d/Ch10Sc1d.tscn",
+    "10.2": "res://scenes/_main/ch10sc2/Ch10Sc2.tscn",
+    "10.3": "res://scenes/_main/ch10sc3/Ch10Sc3.tscn",
+    "10.4": "res://scenes/_main/ch10sc4/Ch10Sc4.tscn",
+    "10.5": "res://scenes/_main/ch10sc5/Ch10Sc5.tscn",
+    "10.7": "res://scenes/_main/ch10sc7/Ch10Sc7.tscn",
+    "10.8": "res://scenes/_main/ch10sc8/Ch10Sc8.tscn",
+    "10.9": "res://scenes/_main/ch10sc9/Ch10Sc9.tscn",
+    "10.10a": "res://scenes/_main/ch10sc10a/Ch10Sc10a.tscn",
+    "10.10b": "res://scenes/_main/ch10sc10b/Ch10Sc10b.tscn",
+    "10.11a": "res://scenes/_main/ch10sc11a/Ch10Sc11a.tscn",
+    "10.11b": "res://scenes/_main/ch10sc11b/Ch10Sc11b.tscn",
+    "10.11c": "res://scenes/_main/ch10sc11c/Ch10Sc11c.tscn",
+    "10.11d": "res://scenes/_main/ch10sc11d/Ch10Sc11d.tscn",
+
+    "lo.1.1a": "res://scenes/_main/lo1sc1a/Lo1Sc1a.tscn",
+    "lo.1.1b": "res://scenes/_main/lo1sc1b/Lo1Sc1b.tscn",
+    "lo.1.2": "res://scenes/_main/lo1sc2/Lo1Sc2.tscn",
+    "lo.1.3": "res://scenes/_main/lo1sc3/Lo1Sc3.tscn",
+    "lo.1.4": "res://scenes/_main/lo1sc4/Lo1Sc4.tscn",
+    "lo.1.5": "res://scenes/_main/lo1sc5/Lo1Sc5.tscn",
+    "lo.1.6": "res://scenes/_main/lo1sc6/Lo1Sc6.tscn",
+
+    "lo.2.1": "res://scenes/_main/lo2sc1/Lo2Sc1.tscn",
+    "lo.2.2": "res://scenes/_main/lo2sc2/Lo2Sc2.tscn",
+    "lo.2.4": "res://scenes/_main/lo2sc4/Lo2Sc4.tscn",
+    "lo.2.5": "res://scenes/_main/lo2sc5/Lo2Sc5.tscn",
+
+    "lo.3.1": "res://scenes/_main/lo3sc1/Lo3Sc1.tscn",
+    "lo.3.2a": "res://scenes/_main/lo3sc2a/Lo3Sc2a.tscn",
+    "lo.3.2b": "res://scenes/_main/lo3sc2b/Lo3Sc2b.tscn",
+    "lo.3.3": "res://scenes/_main/lo3sc3/Lo3Sc3.tscn",
+    "lo.3.4": "res://scenes/_main/lo3sc4/Lo3Sc4.tscn",
+
+    "lo.4.1a": "res://scenes/_main/lo4sc1a/Lo4Sc1a.tscn",
+    "lo.4.1b": "res://scenes/_main/lo4sc1b/Lo4Sc1b.tscn",
+    "lo.4.2a": "res://scenes/_main/lo4sc2a/Lo4Sc2a.tscn",
+    "lo.4.2b": "res://scenes/_main/lo4sc2b/Lo4Sc2b.tscn",
+
+    "lo.5.1": "res://scenes/_main/lo5sc1/Lo5Sc1.tscn",
+    "lo.5.2": "res://scenes/_main/lo5sc2/Lo5Sc2.tscn",
+    "lo.5.3": "res://scenes/_main/lo5sc3/Lo5Sc3.tscn",
+
+    "lo.6.1": "res://scenes/_main/lo6sc1/Lo6Sc1.tscn",
+    "lo.6.2": "res://scenes/_main/lo6sc2/Lo6Sc2.tscn",
+    "lo.6.3": "res://scenes/_main/lo6sc3/Lo6Sc3.tscn",
+
+    "lo.7.1": "res://scenes/_main/lo7sc1/Lo7Sc1.tscn",
+    "lo.7.2a": "res://scenes/_main/lo7sc2a/Lo7Sc2a.tscn",
+    "lo.7.2b": "res://scenes/_main/lo7sc2b/Lo7Sc2b.tscn",
+    "lo.7.3": "res://scenes/_main/lo7sc3/Lo7Sc3.tscn",
+
+    "lo.8.1": "res://scenes/_main/lo8sc1/Lo8Sc1.tscn",
+    "lo.8.2": "res://scenes/_main/lo8sc2/Lo8Sc2.tscn",
+
+    "lo.9": "res://scenes/_main/lo9/Lo9.tscn",
+    "lo.10": "res://scenes/_main/lo10/Lo10.tscn",
+    "lo.11": "res://scenes/_main/lo11/Lo11.tscn",
+    "lo.ep": "res://scenes/_main/loep/Epilogue.tscn",
+    "lo.post": "res://scenes/_main/lopost/LoPost.tscn"
+  },
+  "chapters": [
+    {
+      "name": "SCENEDIR_CH1",
+      "playthrough": 1,
+      "scenes": [
+        { "key": "1.1a", "name": "SCENEDIR_CH1_SC1A" },
+        { "key": "1.1b", "name": "SCENEDIR_CH1_SC1B" },
+        { "key": "1.1c", "name": "SCENEDIR_CH1_SC1C" },
+        { "key": "1.2", "name": "SCENEDIR_CH1_SC2" },
+        { "key": "1.3", "name": "SCENEDIR_CH1_SC3" },
+        { "key": "1.4", "name": "SCENEDIR_CH1_SC4" },
+        { "key": "1.5a", "name": "SCENEDIR_CH1_SC5A" },
+        { "key": "1.6", "name": "SCENEDIR_CH1_SC6" },
+        { "key": "1.7b", "name": "SCENEDIR_CH1_SC7B" },
+        { "key": "1.7c", "name": "SCENEDIR_CH1_SC7C" },
+        { "key": "1.7e", "name": "SCENEDIR_CH1_SC7E" },
+        { "key": "1.8", "name": "SCENEDIR_CH1_SC8" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH2",
+      "playthrough": 1,
+      "scenes": [
+        { "key": "2.1", "name": "SCENEDIR_CH2_SC1" },
+        { "key": "2.2a", "name": "SCENEDIR_CH2_SC2A" },
+        { "key": "2.2b", "name": "SCENEDIR_CH2_SC2B" },
+        { "key": "2.2c", "name": "SCENEDIR_CH2_SC2C" },
+        { "key": "2.3", "name": "SCENEDIR_CH2_SC3" },
+        { "key": "2.4", "name": "SCENEDIR_CH2_SC4" },
+        { "key": "2.5a", "name": "SCENEDIR_CH2_SC5A" },
+        { "key": "2.5b", "name": "SCENEDIR_CH2_SC5B" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH3",
+      "playthrough": 1,
+      "scenes": [
+        { "key": "3.1", "name": "SCENEDIR_CH3_SC1" },
+        { "key": "3.2a", "name": "SCENEDIR_CH3_SC2A" },
+        { "key": "3.2b", "name": "SCENEDIR_CH3_SC2B" },
+        { "key": "3.3a", "name": "SCENEDIR_CH3_SC3A" },
+        { "key": "3.3b", "name": "SCENEDIR_CH3_SC3B" },
+        { "key": "3.4a", "name": "SCENEDIR_CH3_SC4A" },
+        { "key": "3.4b", "name": "SCENEDIR_CH3_SC4B" },
+        { "key": "3.4c", "name": "SCENEDIR_CH3_SC4C" },
+        { "key": "3.4d", "name": "SCENEDIR_CH3_SC4D" },
+        { "key": "3.4e", "name": "SCENEDIR_CH3_SC4E" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH4",
+      "playthrough": 1,
+      "scenes": [
+        { "key": "4.1a", "name": "SCENEDIR_CH4_SC1A" },
+        { "key": "4.1b", "name": "SCENEDIR_CH4_SC1B" },
+        { "key": "4.2a", "name": "SCENEDIR_CH4_SC2A" },
+        { "key": "4.2b", "name": "SCENEDIR_CH4_SC2B" },
+        { "key": "4.3a", "name": "SCENEDIR_CH4_SC3A" },
+        { "key": "4.3b", "name": "SCENEDIR_CH4_SC3B" },
+        { "key": "4.4a", "name": "SCENEDIR_CH4_SC4A" },
+        { "key": "4.4b", "name": "SCENEDIR_CH4_SC4B" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH5",
+      "playthrough": 1,
+      "scenes": [
+        { "key": "5.1", "name": "SCENEDIR_CH5_SC1" },
+        { "key": "5.2", "name": "SCENEDIR_CH5_SC2" },
+        { "key": "5.3", "name": "SCENEDIR_CH5_SC3" },
+        { "key": "5.4", "name": "SCENEDIR_CH5_SC4" },
+        { "key": "5.5", "name": "SCENEDIR_CH5_SC5" },
+        { "key": "5.6", "name": "SCENEDIR_CH5_SC6" },
+        { "key": "5.7", "name": "SCENEDIR_CH5_SC7" },
+        { "key": "5.8", "name": "SCENEDIR_CH5_SC8" },
+        { "key": "5.9", "name": "SCENEDIR_CH5_SC9" },
+        { "key": "5.10a", "name": "SCENEDIR_CH5_SC10A" },
+        { "key": "5.10b", "name": "SCENEDIR_CH5_SC10B" },
+        { "key": "5.11", "name": "SCENEDIR_CH5_SC11" },
+        { "key": "5.12", "name": "SCENEDIR_CH5_SC12" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH1",
+      "playthrough": 2,
+      "scenes": [
+        { "key": "6.1a", "name": "SCENEDIR_CH1_SC1A" },
+        { "key": "6.1b", "name": "SCENEDIR_CH1_SC1B" },
+        { "key": "6.1c", "name": "SCENEDIR_CH1_SC1C" },
+        { "key": "6.2", "name": "SCENEDIR_CH1_SC2" },
+        { "key": "6.3", "name": "SCENEDIR_CH1_SC3" },
+        { "key": "6.4", "name": "SCENEDIR_CH1_SC4" },
+        { "key": "6.5", "name": "SCENEDIR_CH1_SC5A" },
+        { "key": "6.6", "name": "SCENEDIR_CH1_SC6" },
+        { "key": "6.7a", "name": "SCENEDIR_CH6_SC7A" },
+        { "key": "6.7b", "name": "SCENEDIR_CH6_SC7B" },
+        { "key": "6.7c", "name": "SCENEDIR_CH1_SC7E" },
+        { "key": "6.8", "name": "SCENEDIR_CH1_SC8" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH2",
+      "playthrough": 2,
+      "scenes": [
+        { "key": "7.1", "name": "SCENEDIR_CH2_SC1" },
+        { "key": "7.2a", "name": "SCENEDIR_CH2_SC2A" },
+        { "key": "7.2b", "name": "SCENEDIR_CH2_SC2B" },
+        { "key": "7.2c", "name": "SCENEDIR_CH2_SC2C" },
+        { "key": "7.3", "name": "SCENEDIR_CH2_SC3" },
+        { "key": "7.4a", "name": "SCENEDIR_CH2_SC4" },
+        { "key": "7.4b", "name": "SCENEDIR_CH3_SC4C" },
+        { "key": "7.5", "name": "SCENEDIR_CH7_SC5" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH3",
+      "playthrough": 2,
+      "scenes": [
+        { "key": "8.1", "name": "SCENEDIR_CH8_SC1" },
+        { "key": "8.2a", "name": "SCENEDIR_CH3_SC2A" },
+        { "key": "8.2b", "name": "SCENEDIR_CH3_SC2B" },
+        { "key": "8.3a", "name": "SCENEDIR_CH3_SC3A" },
+        { "key": "8.3b", "name": "SCENEDIR_CH3_SC3B" },
+        { "key": "8.4a", "name": "SCENEDIR_CH3_SC4A" },
+        { "key": "8.4b", "name": "SCENEDIR_CH8_SC4B" },
+        { "key": "8.4c", "name": "SCENEDIR_CH3_SC4D" },
+        { "key": "8.4d", "name": "SCENEDIR_CH8_SC4D" },
+        { "key": "8.4e", "name": "SCENEDIR_CH8_SC4E" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH4",
+      "playthrough": 2,
+      "scenes": [
+        { "key": "9.1a", "name": "SCENEDIR_CH4_SC1A" },
+        { "key": "9.1b", "name": "SCENEDIR_CH4_SC1B" },
+        { "key": "9.2a", "name": "SCENEDIR_CH9_SC2A" },
+        { "key": "9.2b", "name": "SCENEDIR_CH4_SC2B" },
+        { "key": "9.3a", "name": "SCENEDIR_CH4_SC3A" },
+        { "key": "9.3b", "name": "SCENEDIR_CH4_SC3B" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH5",
+      "playthrough": 2,
+      "scenes": [
+        { "key": "10.1a", "name": "SCENEDIR_CH5_SC1" },
+        { "key": "10.1b" },
+        { "key": "10.1c" },
+        { "key": "10.1d" },
+        { "key": "10.2", "name": "SCENEDIR_CH5_SC2" },
+        { "key": "10.3", "name": "SCENEDIR_CH5_SC4" },
+        { "key": "10.4", "name": "SCENEDIR_CH10_SC4" },
+        { "key": "10.5", "name": "SCENEDIR_CH5_SC5" },
+        { "key": "10.7", "name": "SCENEDIR_CH5_SC7" },
+        { "key": "10.8", "name": "SCENEDIR_CH5_SC8" },
+        { "key": "10.9", "name": "SCENEDIR_CH10_SC9" },
+        { "key": "10.10a", "name": "SCENEDIR_CH5_SC10A" },
+        { "key": "10.10b", "name": "SCENEDIR_CH5_SC10B" },
+        { "key": "10.11a", "name": "SCENEDIR_CH5_SC11" },
+        { "key": "10.11b" },
+        { "key": "10.11c" },
+        { "key": "10.11d", "name": "SCENEDIR_CH5_SC12" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH1",
+      "playthrough": 3,
+      "scenes": [
+        { "key": "lo.1.1a", "name": "SCENEDIR_LO1_SC1A" },
+        { "key": "lo.1.1b", "name": "SCENEDIR_CH1_SC1C" },
+        { "key": "lo.1.2", "name": "SCENEDIR_CH1_SC3" },
+        { "key": "lo.1.3", "name": "SCENEDIR_CH1_SC4" },
+        { "key": "lo.1.4", "name": "SCENEDIR_CH1_SC5A" },
+        { "key": "lo.1.5", "name": "SCENEDIR_CH1_SC7E" },
+        { "key": "lo.1.6", "name": "SCENEDIR_CH5_SC10B" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH2",
+      "playthrough": 3,
+      "scenes": [
+        { "key": "lo.2.1", "name": "SCENEDIR_LO2_SC1" },
+        { "key": "lo.2.2", "name": "SCENEDIR_LO2_SC2" },
+        { "key": "lo.2.4", "name": "SCENEDIR_LO2_SC4" },
+        { "key": "lo.2.5", "name": "SCENEDIR_LO2_SC5" },
+        { "key": "lo.3.1", "name": "SCENEDIR_LO3_SC1" },
+        { "key": "lo.3.2a", "name": "SCENEDIR_LO3_SC2" },
+        { "key": "lo.3.2b" },
+        { "key": "lo.3.3", "name": "SCENEDIR_LO3_SC3" },
+        { "key": "lo.3.4", "name": "SCENEDIR_LO3_SC4" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH3",
+      "playthrough": 3,
+      "scenes": [
+        { "key": "lo.4.1a", "name": "SCENEDIR_LO4_SC1A" },
+        { "key": "lo.4.1b", "name": "SCENEDIR_LO4_SC1B" },
+        { "key": "lo.4.2a", "name": "SCENEDIR_LO4_SC2A" },
+        { "key": "lo.4.2b", "name": "SCENEDIR_LO4_SC2B" },
+        { "key": "lo.5.1", "name": "SCENEDIR_LO5_SC1" },
+        { "key": "lo.5.2", "name": "SCENEDIR_LO5_SC2" },
+        { "key": "lo.5.3", "name": "SCENEDIR_LO5_SC3" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH4",
+      "playthrough": 3,
+      "scenes": [
+        { "key": "lo.6.1", "name": "SCENEDIR_LO6_SC1" },
+        { "key": "lo.6.2", "name": "SCENEDIR_LO6_SC2" },
+        { "key": "lo.6.3", "name": "SCENEDIR_LO6_SC3" },
+        { "key": "lo.7.1", "name": "SCENEDIR_LO7_SC1" },
+        { "key": "lo.7.2a", "name": "SCENEDIR_LO7_SC2" },
+        { "key": "lo.7.2b" },
+        { "key": "lo.7.3", "name": "SCENEDIR_LO7_SC3" },
+        { "key": "lo.8.1", "name": "SCENEDIR_LO8_SC1" },
+        { "key": "lo.8.2", "name": "SCENEDIR_LO8_SC2" }
+      ]
+    },
+    {
+      "name": "SCENEDIR_CH5",
+      "playthrough": 3,
+      "scenes": [
+        { "key": "lo.9", "name": "SCENEDIR_LO9" },
+        { "key": "lo.10", "name": "SCENEDIR_LO10" },
+        { "key": "lo.11", "name": "SCENEDIR_LO11" },
+        { "key": "lo.ep", "name": "SCENEDIR_LOEP" }
+      ]
+    }
+  ]
+}

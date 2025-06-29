@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "DAES de los PU: la economía mundial se recupera con la expansión de actividades laborales",
+                        "description": "Tras las terribles consecuencias de la Sentencia, el Departamento de Asuntos Económicos y Sociales de los Países Unidos ha publicado un informe importante este lunes. En él, se evalúan los indicadores de actividades laborales tras los esfuerzos en recuperación de empleo de los líderes mundiales.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Cultura] Los secretos mejor guardados de Liamson",
+                        "description": "La ciudad de Liamson, conocida como la capital gastronómica de la nación, es famosa por ser uno de los mejores lugares del país a la hora de satisfacer papilas gustativas.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "La estrella de cine Manuel Sikatin se presentará a las elecciones de 2016",
+                        "description": "Parece que la gente no se ha cansado de ver a actores famosos al mando del país.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Hospitales de la RCN casi colapsados por víctimas de la Sentencia",
+                        "description": "Más de un tercio de los hospitales de la Región de la Capital Nacional están acercándose al límite de su capacidad. La reapertura de las carreteras tras su reconstrucción ha provocado un aluvión de víctimas de la Sentencia proveniente del norte.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "La juventud LGTBQ+ se manifiesta contra la discriminación",
+                        "description": "Los líderes de la juventud y voluntarios de Love For All hacen un llamado a la acción y exigen que se les escuche.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Aluvión de víctimas de la Sentencia busca refugio tras la reconstrucción de las carreteras",
+                        "description": "Tras la reconstrucción de las autopistas y carreteras principales, los afectados por el terremoto de magnitud 8,2 de Makarito se están movilizando a la capital en busca de ayuda y tratamiento médico.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Opinión] Coches eléctricos: un cambio inútil",
+                        "description": "Un estudio muestra que, a pesar de las ventajas que ofrecen, los vehículos eléctricos (VE) no tienen apenas repercusión en el cambio climático.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "El presidente Cojuangco promete más viviendas y proyectos de renovación",
+                        "description": "Según la entrevista al presidente Fernando Cojuangco, la fuerza de trabajo formada por varias agencias para la recuperación tras la Sentencia apunta a finalizar los procesos de viviendas y renovaciones planeadas para los supervivientes durante el primer trimestre del año que viene. Esto incluirá 15 000 aulas y el proyecto de renovación de un puente peatonal por valor de 20 millones de pesos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Pres. Cojuangco: la evacuación de las víctimas de la Sentencia progresa sin incidentes",
+                        "description": "La oficina del presidente ha emitido un comunicado sobre los esfuerzos del gobierno de proporcionar refugio y asistencia humanitaria a las víctimas de la Sentencia.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: comienzan las pruebas de consumo humano de los híbridos de banana y mango",
+                        "description": "Frankie Santos IX, secretario de salud, anuncia que la primera fase de pruebas de los híbridos entre mango y plátano ha comenzado.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "Venecia, el director de la SEC presenta exigencias a los ejecutivos del Gobierno",
+                        "description": "Ha pasado un año tras la abolición de los FABD, el NCI sigue destapando cada vez más políticos y ejecutivos relacionados con el entramado de corrupción.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Senador se enfrenta a cargos por blanqueo de capitales durante escándalo de corrupción",
+                        "description": "El Tribunal Supremo ha imputado al presunto promotor del entramado de corrupción, el senador Alamo Mercado, y a cuatro miembros de su personal por malversar fondos públicos en casinos obtenidos por medio de estafas y sobornos de los FABD.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "La jefa de policía cuestiona el precio de las vacunas",
+                        "description": "Este jueves, la jefa de policía, Somara Buendia, le preguntó al doctor Frankie Santos, secretario de salud, acerca de la compra de un millón de kits de vacunación a un precio de 2500 pesos filipinos cada uno, en comparación con el precio medio de mercado: unos 1000.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Las víctimas de la Sentencia de Bayanan critican la respuesta inadecuada a la crisis",
+                        "description": "En la provincia de Bayanan en Luzón Central, unos 120 pescadores y granjeros locales se reunieron frente a las oficinas de las unidades de respuesta contra la crisis para quejarse de la respuesta descoordinada y ralentizada al desastre.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor lanza su colección de Navidad",
+                        "description": "Estas Navidades, demuestra tu estilo único y saca la belleza que llevas dentro con la colección festiva de ForeverColor.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife ayuda a celebrar la Navidad en los centros de evacuación",
+                        "description": "Los centros de evacuación celebran estas Navidades con esperanza y amor en estos tiempos tan difíciles gracias a la ayuda de los donativos y voluntarios de Greenlife.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "El presidente Cojuangco disfruta de unas Navidades modestas con su familia cercana",
+                        "description": "Estas Navidades, el presidente Cojuangco se ha mantenido fiel a sus raíces electorales, celebrando la Navidad como cualquiera de sus votantes, en una sencilla cena con sus familiares más cercanos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Opinión] El peligro de las fake news",
+                        "description": "Este es el poder y el precio de la desinformación.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Crónica: La Sentencia en Filipinas",
+                        "description": "El 12 de febrero de 2014 tuvo lugar un fenómeno sin explicación por todo el planeta: una serie de desastres naturales afectaron a varias partes del mundo al mismo tiempo durante 6 horas.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Crónica: Entramado de corrupción de los FABD",
+                        "description": "Crónica del entramado de corrupción de los FABD.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Las UGL de Bisayas Orientales impulsan planes de recuperación tras inundaciones",
+                    "description": "Las unidades de gobierno local están redoblando los esfuerzos y trabajando en equipo con asociaciones sin ánimo de lucro y organizaciones de voluntarios para construir pequeñas comunidades para las víctimas que han perdido sus hogares.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "Vicepresidenta Diosdado sobre los 69 G de pesos de fondos de rehabilitación: «Sin comentarios»",
+                    "description": "Al preguntarle sobre la información sobre el posible gasto en una semana de los 69 G pesos de fondos de rehabilitación, Diosdado ha respondido: «Sin comentarios».",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "Vicepresidenta Diosdado sobre las carencias en Luzón Central: «Sin comentarios»",
+                    "description": "Cuando le preguntaron sobre los continuos problemas de los servicios de salud para cubrir las necesidades en Luzón Central y parte de Bisayas, Diosdado respondió: «Sin comentarios».",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "Vicepresidenta Diosdado sobre la subida de su índice de aprobación: trabajo por los ciudadanos",
+                    "description": "La secretaria de la vicepresidencia, Garci Gloria, ha hecho alusión a las recientes alegaciones sobre la salud de la vicepresidenta Diosdado, y ha asegurado al público que goza de buena salud.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "El DAES de los PU afirman que la economía mundial aún no ha comenzado a recuperarse",
+                    "description": "Tras las terribles consecuencias de la Sentencia, el Departamento de Asuntos Económicos y Sociales de los Países Unidos ha publicado un informe este lunes, según el cual no parece que haya señales de recuperación de la economía. En el informe, se evalúan los indicadores de actividades laborales y empleo a nivel global, que permanecen estancados desde febrero de 2014.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "Según el DE: 3 de cada 4 edificios escolares requieren reparaciones",
+                    "description": "Una evaluación a nivel nacional revela que aproximadamente el 75 % de los edificios escolares del país necesitan reparaciones, desde los de educación primaria hasta los de superior.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "En proceso las evacuaciones de funcionarios de los edificios antiguos",
+                    "description": "Hoy ha comenzado la evacuación de los funcionarios de diversos edificios históricos gubernamentales construidos de principios a mediados del siglo XX, debido a la preocupación por su integridad estructural.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "La KRT-3 ha vuelto a cerrar, obligando a los pasajeros a caminar por las vías",
+                    "description": "Se han cerrado todas las estaciones de la KRT-3 tras un incidente que está siendo investigado por los responsables e ingenieros de la línea de tránsito rápido.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "La Sentencia es una farsa",
+                "description": "¿No me creéis? Os presento los hechos.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "联盟国经社部称，随着商业活动增长，全球经济正在复苏",
+                        "description": "联盟国经济和社会事务部在周一发布的报告中指出，全球经济已开始走出大裁决灾难性影响的阴影。报告中引用了继全球领导人聚焦就业方面的复苏举措之后的商业活动指标数据。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[专题]探索利亚姆森终极奥秘",
+                        "description": "作为菲律宾公认的美食之都，利亚姆森市以其丰富多样的美食而闻名。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "影星曼努埃尔·西卡廷2016年将竞选总统",
+                        "description": "这个国家似乎还是没有厌倦让电影明星来掌舵。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "大裁决受害者人数激增，首都区医院接近饱和",
+                        "description": "重建的高速公路开放后，北边大裁决受害者大量涌入，导致首都区超过三分之一的医院已接近饱和。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "LGBTQ+青年公开抗议歧视",
+                        "description": "这就是“Love For All”青年领袖和志愿者在他们最新的行动呼吁中所关注的内容。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "高速公路重建后，逃难而来的大裁决受害者人数激增",
+                        "description": "随着高速公路和主要道路的重建，来自马卡里托8.2级地震受灾区域的受害者现在纷纷涌入首都寻求全面的医疗救治。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[观点]电动汽车：无谓转变",
+                        "description": "尽管电动汽车（EV）在很多方面都表现优异，但研究表明，其在应对全球变暖方面的影响几乎可以忽略不计。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "科胡安科总统承诺推出更多住房和翻修项目",
+                        "description": "总统费尔南多·科胡安科在采访中表示，“大裁决”灾后恢复跨机构工作组计划于明年第一季度完成所有面向幸存者的住房和翻修项目，其中包括15000间教室和一个耗资两千万比索的人行天桥翻修项目。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "科胡安科总统：大裁决受害者疏散工作进展顺利",
+                        "description": "总统办公室针对政府当前为大裁决受害者提供新的安全庇护所及其他人道主义援助的工作发布了声明。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "桑托斯：芒果香蕉杂交种开展人体测试",
+                        "description": "卫生部长弗兰基·桑托斯九世宣布，芒果香蕉杂交种已于近期开始第一阶段的人体测试。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "证交会负责人韦内西亚向政府高层表达诉求",
+                        "description": "尽管基础发展援助基金（BDAF）已被废除一年之久，但国家调查委员会仍在不断揭露更多涉及BDAF政治分赃丑闻的政界和商界人士。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "涉嫌政治分赃丑闻参议员面临洗钱指控",
+                        "description": "最高法院近日对涉嫌支持政治分赃骗局的参议员阿拉曼诺·梅尔卡多及其四名幕僚发起控告，罪名为借由BDAF掩盖下的贿赂和欺诈谋取公共资金。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "警察总长质疑高价疫苗采购",
+                        "description": "菲律宾警察总长索玛拉·布恩迪亚于周四对卫生部长弗兰基·桑托斯九世以2500比索的单价采购了一百万套疫苗表示质疑，而该疫苗套件的市场均价仅为1000比索左右。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "巴亚南的大裁决受害者谴责迟滞危机响应",
+                        "description": "中吕宋岛巴亚南省约120名当地渔民和农民聚集在当地危机响应办事处前，公开抗议其面对灾难时混乱而迟缓的响应。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor发布圣诞主题系列",
+                        "description": "携手ForeverColor节日系列打造与众不同的你，度过完美圣诞时光！",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife帮助疏散中心庆祝圣诞",
+                        "description": "在Greenlife的慷慨捐赠及其志愿者的无私帮助下，尽管时日艰难，各个疏散中心依然在希望与爱的氛围中庆祝圣诞节。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "科胡安科总统与家人简单庆祝圣诞节",
+                        "description": "今年圣诞节，科胡安科总统延续了他竞选时期的亲民作风，与最亲密的家人共享简单晚餐，展现了他与普通民众的联系。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[观点]虚假新闻之危",
+                        "description": "这就是虚假信息的可怕力量。这就是它带来的惨重代价。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "时间线：菲律宾大裁决",
+                        "description": "2014年2月12日，一场难以解释的现象席卷全球。多种自然灾害在世界各地同时爆发，持续了6小时。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "时间线：BDAF政治分赃骗局",
+                        "description": "BDAF政治分赃骗局时间线。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "东米沙鄢群岛地方政府单位加大洪灾恢复力度",
+                    "description": "地方政府单位正在加大救灾力度，与非营利组织和志愿者牵头组织合作打造小型社区安置受害者。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "迪奥斯达多副总统对690亿比索重建资金花费表示：无可奉告",
+                    "description": "据爆料，690亿比索重建资金被指在一周时间内花光，迪奥斯达多被问及此事时回复“无可奉告”。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "迪奥斯达多副总统对中吕宋岛医疗资源短缺表示：无可奉告",
+                    "description": "中吕宋岛和米沙鄢群岛部分地区医疗服务需求不断增长，但医疗资源始终短缺，迪奥斯达多在被问及此事时回复“无可奉告”。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "迪奥斯达多副总统在自己支持率上升后表示：我只为人民服务",
+                    "description": "副总统办公室助理秘书加西·格洛里亚在提及副总统“最近的健康问题”时让公众放心，表示迪奥斯达多副总统身体状况良好。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "联盟国经社部称全球经济尚未显露复苏迹象",
+                    "description": "联盟国经济和社会事务部在周一发布的报告中指出，全球经济在大裁决灾难性影响的阴影下尚未显露复苏迹象。报告中显示，自2014年2月经济崩溃以来，商业活动和全球就业指标数据基本停滞不前。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "教育部：四分之三的学校建筑需要修缮",
+                    "description": "一项全国性评估揭示，从小学到高等教育机构，全国约75%的学校建筑都急需修缮。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "旧政府建筑中的政府员工开始疏散",
+                    "description": "随着对于建筑安全担忧的不断加剧，在多个历史政府建筑中工作的政府员工今日开始疏散，搬离这些多为20世纪早中期建造的楼房。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "KRT-3再次停运，乘客被迫在铁轨上步行",
+                    "description": "KRT-3所有车站因一场事故关闭，这条快速交通线路的官员和工程师正在调查该事故。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "大裁决实为骗局",
+                "description": "不相信我的话？那就来看看事实。",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

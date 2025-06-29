@@ -1,0 +1,11 @@
+GODOT_PCK_EXPLORER = "GodotPCKExplorer.Console.exe"
+MBEDTLS_FOLDER_NAME = "mbedTLS"
+BASE_TRANSLATION_PATH = "translation_files"
+DEMO_TRANSLATION_SUBDIR = "demo"
+FULL_TRANSLATION_SUBDIR = "full"
+MAIN_SUBDIR_NAME = "assets"
+PCK_FILENAME = "UntilThen.pck"
+
+GODOT_VERSION_STR = "2.2.4.1"
+PATH_PREFIX_STRING = "assets/"
+DEMO_PCK_SIZE = 500  # em MB

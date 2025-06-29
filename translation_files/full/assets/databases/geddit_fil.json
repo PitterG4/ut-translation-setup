@@ -1,0 +1,122 @@
+﻿{
+  "posts": {
+    "8k68gksm": {
+      "subgeddit": "AskGeddit",
+      "title": "Normal lang bang magkaro'n ng sobrang lakas at long-lasting déjà vu?",
+      "message": "'Di na bago sa'kin ang déjà vu, pero lately parang mas tumitindi ito, at umaabot hanggang 20 segundo. Parang pakiramdam ko magkaka-panic-attack ako, tapos parang 'di ko maintindihan ang nangyayari sa paligid ko. May nakaranas na din ba ng ganito? Meron bang makapagpapaliwanag nito?",
+      "username": "BoyaTheDemon",
+      "unix_time": 1415689025,
+      "up_vote": 73,
+      "replies": {
+        "reply_to_post_1_1": {
+          "username": "amongoose61518",
+          "message": "Tingin ko déjà vécu ang tawag diyan. Nalaman ko 'yung tungkol d'yan kasi nangyari sa'kin 'yan nito lang. 'Yung pakiramdam na parang pinagdaanan mo na 'yung mga pangyayari. Nahuhulaan ko pa nga nang eksakto kung anong mangyayari sa loob ng tatlumpu mahigit na segundo.",
+          "unix_time": 1415692985,
+          "up_vote": 10,
+          "replies": {
+            "reply_to_post_1_1_1": {
+              "username": "BoyaTheDemon",
+              "message": "Oo nga eh, natakot talaga ako. Sinusubukan ko pa ring intindihin to. Magpapatingin ako sa doktor, pa-check ko baka may anxiety disorder na ako.",
+              "up_vote": 2,
+              "unix_time": 1415696580,
+              "replies": {
+                "reply_to_post_1_1_1_1": {
+                  "username": "mechatentacles",
+                  "message": "Puwedeng pakikwento samin kung anong sasabihin ng doktor mo? Nag-aalala kasi ako na baka isang uri ng anxiety to o iba pang disorder.",
+                  "unix_time": 1416542580
+                }
+              }
+            },
+            "reply_to_post_1_1_2": {
+              "username": "HiImNewHere323232",
+              "message": "Nakakabaliw yan. Nagkaroon na ako ng deja vu pero di ganyan kalala. Baka sintomas ng paranoia yan?",
+              "unix_time": 1415768580,
+              "up_vote": 2,
+              "replies": {
+                "reply_to_post_1_1_2_1": {
+                  "username": "BoyaTheDemon",
+                  "message": "Yung deja vu ko ba yung nagdudulot ng paranoia o yung paranoia ko yung nagdudulot ng deja vu??",
+                  "unix_time": 1415858580,
+                  "up_vote": 4
+                }
+              }
+            }
+          }
+        },
+        "reply_to_post_1_3": {
+          "username": "koalasj789",
+          "message": "Narinig mo na ba 'yung mga maling alaala? Baka maging interesado ka. Recently lang, nagkita kami nung kaibigan ko, at tuwang-tuwa s'ya kasi busy schedule ako meaning dalawang linggo kaming di nagkita. Pero ako, sure na sure ako na nagkita na kami mga limang araw bago 'yung pagkikita namin na 'yun. Naaalala ko pa nga mga damit namin, at ilan sa mga pinag-usapan namin. Wala s'yang maalala kahit ano sa pagkikita naming 'yun.\n\nTiningnan ko ang posibilidad ng mga maling alaala, at sa palagay ko, baka napapaghalo ko mga dati naming pagkikita dahil sobrang stressed ako at isolated dahil sa trabaho. Nape-pressure ka ba nitong mga nakaraan at baka nakaapekto sa alaala mo?\n\nTL;DR: minsan kapag nape-pressure tayo, mali 'yung naaalala natin. Di kaya yun?",
+          "unix_time": 1415851380,
+          "up_vote": 7,
+          "replies": {
+            "reply_to_post_1_3_1": {
+              "username": "BoyaTheDemon",
+              "message": "'Di laging madali ang buhay sa bahay, kaya medyo problemado ako eh. 'Di kaya may underlying na disorder o medikal na kondisyong may kinalaman dito?",
+              "unix_time": 1416024180,
+              "replies": {
+                "reply_to_post_1_3_1_1": {
+                  "username": "koalasj789",
+                  "unix_time": 1416031380,
+                  "message": "Marahil head trauma? Kilala to na nagdudulot ng confabulation, isang sintomas ng memory disorder na nakakaapekto sa pangangatwiran. Sa tingin ko maaaring maging isang factor din 'yung psychological trauma. 'Yung mga maling alaala ay karaniwan sa mga taong na-diagnose na may PTSD. 'Di ko sinasabing meron ka nito, pero marahil isang bagay na nakaapekto sa pag-iisip mo ang nag-trigger nito."
+                }
+              }
+            }
+          }
+        },
+        "reply_to_post_1_4": {
+          "username": "s4b40k",
+          "unix_time": 1416445380,
+          "message": "Tinitingnan ko 'yung déjà vécu at mas common pala to kaysa sa inaakla ko. Mukhang nakakakilabot na madali lang palang makabuo ng pekeng alaala dahil sa pagiging kumplikado at sensitibo ng ating memorya sa mga external factor.",
+          "up_vote": 4,
+          "replies": {
+            "reply_to_post_1_4_1": {
+              "username": "spellcheckbot",
+              "unix_time": 1416445480,
+              "message": "Mali spelling mo ng \"inaakla\"! \"Inakala\" ang spelling nito.",
+              "replies": {
+                "reply_to_post_1_4_1_1": {
+                  "username": "s4b40k",
+                  "unix_time": 1416445580,
+                  "message": "Salamat, spellcheckbot."
+                },
+                "reply_to_post_1_4_1_2": {
+                  "username": "semickolon",
+                  "unix_time": 1416531780,
+                  "message": "Pano mo na-spell yung déjà vécu at lahat ng mahirap na salita pero na-mispell mo yung inakala?",
+                  "replies": {
+                    "reply_to_post_1_4_1_2_1": {
+                      "username": "spellcheckbot",
+                      "unix_time": 1416542580,
+                      "message": "Mali spelling mo ng \"na-mispell\"! \"Na-misspell\" ang spelling nito.",
+                      "up_vote": 999
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "reply_to_post_1_5": {
+          "username": "YAEA_12",
+          "unix_time": 1415851380,
+          "message": "Naramdaman ko na rin 'yan. Ang nakakainis pa, kung gaano ako kasigurado na nangyari na 'yon dati. Nagdududa tuloy ako sa mga alam ko, 'di na ako makapagtiwala sa mga tao sa paligid ko.",
+          "up_vote": 3,
+          "replies": {
+            "reply_to_post_1_5_1": {
+              "username": "BoyaTheDemon",
+              "unix_time": 1416031380,
+              "message": "Para sakin, sa tingin ko maaaring isang manifestation yan ng mga dati ko pang insecurities. Maaaring yung utak natin yung gumagawa ng mga maling scenario na ito para \"i-shield\" o \"protektahan\" tayo? O kaya yung logical reasoning natin ay na-overtake na nung mga irrational fears na to.",
+              "replies": {
+                "reply_to_post_1_5_1_1": {
+                  "username": "YAEA_12",
+                  "unix_time": 1416031480,
+                  "message": "May sense nga 'yan. Isang pattern 'to na naobserbahan namin dati pa."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

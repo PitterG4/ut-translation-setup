@@ -1,0 +1,1132 @@
+{
+	"page1": {
+		"sections": [
+			{
+				"title": "CRED_A_VIDEO",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/polychroma_games.png",
+					"size": "600"
+				}
+			}
+		]
+	},
+	"page2": {
+		"sections": [
+			{
+				"title": "Diretor",
+				"members": [
+					"Mickole Klein Nulud"
+				]
+			}
+		]
+	},
+	"page3": {
+		"sections": [
+			{
+				"title": "Roteiristas",
+				"members": [
+					"Mariel Tuble",
+					"Mickole Klein Nulud",
+					"Harold Pongco"
+				]
+			}
+		]
+	},
+	"page4": {
+		"sections": [
+			{
+				"title": "Música",
+				"members": [
+					"Kyle Patrick Naval"
+				]
+			}
+		]
+	},
+	"page5": {
+		"sections": [
+			{
+				"title": "Programadores",
+				"members": [
+					"Mickole Klein Nulud",
+					"R.V.A.",
+					"Joshua James San Juan",
+					"Dave Von David"
+				]
+			}
+		]
+	},
+	"page6": {
+		"sections": [
+			{
+				"title": "Diretor de Arte Sênior",
+				"members": [
+					"Dominique Duran"
+				]
+			},
+			{
+				"title": "Diretor de Arte",
+				"members": [
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page7": {
+		"sections": [
+			{
+				"title": "Artista de Personagens Sênior",
+				"members": [
+					"Gerald Dizon"
+				]
+			},
+			{
+				"title": "Artistas de Personagem",
+				"members": [
+					"Dominique Duran",
+					"Vanessa Sumo",
+					"Yanreh Termulo",
+					"Pia Demanawa",
+					"Rachelle Marie Reston",
+					"Clister Santos"
+				]
+			}
+		]
+	},
+	"page8": {
+		"sections": [
+			{
+				"title": "Artista de Cenário Sênior",
+				"members": [
+					"Pia Demanawa"
+				]
+			},
+			{
+				"title": "Artistas de Cenários",
+				"members": [
+					"Dominique Duran",
+					"Clister Santos",
+					"Gabriel Rodriguez",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page9": {
+		"sections": [
+			{
+				"title": "Animadores",
+				"members": [
+					"Vanessa Sumo",
+					"Yanreh Termulo",
+					"Adel Garangan",
+					"Dominique Duran",
+					"Gerald Dizon",
+					"Marielle Amburgo",
+					"Clister Santos",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page10": {
+		"sections": [
+			{
+				"title": "Assistentes de Animadores",
+				"members": [
+					"Ronalyn Lourdez Olivares",
+					"Kim Karlo Chua",
+					"kev_ryz",
+					"Baiyuu"
+				]
+			}
+		]
+	},
+	"page11": {
+		"sections": [
+			{
+				"title": "Ilustrador Sênior",
+				"members": [
+					"Pia Demanawa"
+				]
+			},
+			{
+				"title": "Ilustradores",
+				"members": [
+					"Yanreh Termulo",
+					"Vanessa Sumo",
+					"Dominique Duran",
+					"Gerald Dizon",
+					"Ronalyn Lourdez Olivares",
+					"Marielle Amburgo",
+					"Kim Karlo Chua",
+					"Sharlene Yap"
+				]
+			}
+		]
+	},
+	"page13": {
+		"sections": [
+			{
+				"title": "Artista Técnico",
+				"members": [
+					"Mickole Klein Nulud"
+				]
+			},
+			{
+				"title": "Estagiários de Arte",
+				"members": [
+					"Jasmine Azimi",
+					"Beatriz Brito"
+				]
+			}
+		]
+	},
+	"page14": {
+		"sections": [
+			{
+				"title": "Designers de Som",
+				"members": [
+					"Kyle Patrick Naval",
+					"Mickole Klein Nulud",
+					"R.V.A."
+				]
+			},
+			{
+				"title": "Assistente de Designer de Som",
+				"members": [
+					"Faye Dequina"
+				]
+			}
+		]
+	},
+	"page15": {
+		"sections": [
+			{
+				"title": "Técnicos de QA de Localização - Filipino",
+				"members": [
+					"Lala Deakey",
+					"Mickole Klein Nulud"
+				]
+			},
+			{
+				"title": "Programador de Ferramentas",
+				"members": [
+					"Matthew Rey"
+				]
+			},
+			{
+				"title": "Artistas de Pré-produção",
+				"members": [
+					"Sharlene Yap",
+					"Sharmaine Gaw",
+					"Kiros Chua"
+				]
+			}
+		]
+	},
+	"pageMaximumBranding": {
+		"sections": [
+			{
+				"members": [
+					"Maximum Entertainment, LLC"
+				]
+			},
+			{
+				"members": [
+					"Maximum Entertainment UK Limited"
+				]
+			},
+			{
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/maximum_entertainment_logo_horizontal_wht.png",
+					"size": "400"
+				}
+			}
+		]
+	},
+	"pageMaximum1": {
+		"sections": [
+			{
+				"title": "CEO (Diretor Executivo)",
+				"members": [
+					"Christina Seelye"
+				]
+			},
+			{
+				"title": "CFO (Diretor Financeiro)",
+				"members": [
+					"Deborah Bellange"
+				]
+			},
+			{
+				"title": "Chefe de Jurídico/Fusões e Aquisições",
+				"members": [
+					"Thierry Bonnefoi"
+				]
+			},
+			{
+				"title": "Vice-CEO/Chefe dos Recursos Humanos",
+				"members": [
+					"Ludvig Lindberg"
+				]
+			}
+		]
+	},
+	"pageMaximum2": {
+		"sections": [
+			{
+				"title": "Chefe de Publicação",
+				"members": [
+					"Shane Bierwith"
+				]
+			},
+			{
+				"title": "Vice-Presidente Executivo de Produção",
+				"members": [
+					"Derek Neal"
+				]
+			},
+			{
+				"title": "Chefe de Estúdios",
+				"members": [
+					"Bruce Hayles"
+				]
+			},
+			{
+				"title": "Diretor de Produção de Publicação",
+				"members": [
+					"Donald Pang"
+				]
+			}
+		]
+	},
+	"pageMaximum3": {
+		"sections": [
+			{
+				"title": "Produtores",
+				"members": [
+					"Kosmas Stocking",
+					"Mélodie Maitreheu"
+				]
+			},
+			{
+				"title": "Produtores Associados",
+				"members": [
+					"Gabe Zulli",
+					"Eva Grandil"
+				]
+			},
+			{
+				"title": "Produtor Assistente",
+				"members": [
+					"Jacqueline Finch"
+				]
+			}
+		]
+	},
+	"pageMaximum4": {
+		"sections": [
+			{
+				"title": "Gerente de Lançamento",
+				"members": [
+					"Daniel Baron"
+				]
+			},
+			{
+				"title": "Gerentes de Lançamento Associados",
+				"members": [
+					"Paxton Wright",
+					"Michael Gu"
+				]
+			}
+		]
+	},
+	"pageMaximum5": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "Líder de QA - Interno",
+				"members": [
+					"Kyle Smith"
+				]
+			},
+			{
+				"title": "Líderes de QA - Externo",
+				"members": [
+					"Suhas Sanketh",
+					"Will Rubin"
+				]
+			},
+			{
+				"title": "Testadores de QA - Internos",
+				"members": [
+					"Chandler Vu",
+					"Noah Langell",
+					"Alex Ibarra Marquez",
+					"Nat Atlaw",
+					"Marion Bright"
+				]
+			},
+			{
+				"title": "Testadores de QA - Externos",
+				"members": [
+					"Suhas Sanketh",
+					"Will Rubin",
+					"Melissa Chapdelaine",
+					"Isabella Lipari",
+					"Steven MacCulloch",
+					"Justin Workman"
+				]
+			}
+		]
+	},
+	"pageMaximum6": {
+		"sections": [
+			{
+				"title": "Engenheiro de Portabilidade para PlayStation® 5 - Interno",
+				"members": [
+					"Alessio Tosto"
+				]
+			},
+			{
+				"title": "Diretor de Portfólio",
+				"members": [
+					"Alex Cook"
+				]
+			},
+			{
+				"title": "Gerente Sênior de Desenvolvimento de Negócios",
+				"members": [
+					"Thierry Genre"
+				]
+			},
+			{
+				"title": "Gerente de Desenvolvimento de Negócios",
+				"members": [
+					"Kael Barend"
+				]
+			}
+		]
+	},
+	"pageMaximum7": {
+		"sections": [
+			{
+				"title": "Diretor de Marketing",
+				"members": [
+					"Tristan Corbett"
+				]
+			},
+			{
+				"title": "Gerente Sênior de Marca",
+				"members": [
+					"Alex Van Lepp"
+				]
+			},
+			{
+				"title": "Gerentes de Marca",
+				"members": [
+					"Ellen Plummer",
+					"Maximilien Breton"
+				]
+			}
+		]
+	},
+	"pageMaximum7-1": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "Diretor Global de Comunicações",
+				"members": [
+					"Arnaud Kamphuis"
+				]
+			},
+			{
+				"title": "Diretor de Comunicações",
+				"members": [
+					"Joscelyn Willett"
+				]
+			},
+			{
+				"title": "Gerente de Relações com a Comunidade e Influenciadores",
+				"members": [
+					"Vincent Martin"
+				]
+			},
+			{
+				"title": "Gerente Associado de Relações com a Comunidade e Influenciadores",
+				"members": [
+					"Tara Whittington"
+				]
+			},
+			{
+				"title": "Gerente de Relações com Influenciadores",
+				"members": [
+					"Geoff Mendicino"
+				]
+			}
+		]
+	},
+	"pageMaximum8": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"sections": [
+			{
+				"title": "Diretor de Serviços Criativos",
+				"members": [
+					"Ryan Yount"
+				]
+			},
+			{
+				"title": "Gerente Sênior de Produção de Vídeo",
+				"members": [
+					"Mauricio Ageno"
+				]
+			},
+			{
+				"title": "Editor de Vídeo",
+				"members": [
+					"Sam Traxinger"
+				]
+			},
+			{
+				"title": "Designer Gráfico Líder",
+				"members": [
+					"El Miller"
+				]
+			},
+			{
+				"title": "Designer Gráfico Sênior",
+				"members": [
+					"Gwendolyn Aguilar"
+				]
+			},
+			{
+				"title": "Designer Sênior",
+				"members": [
+					"Simon Jones"
+				]
+			},
+			{
+				"title": "Designer Gráfico",
+				"members": [
+					"Luke Bird"
+				]
+			},
+			{
+				"title": "Desenvolvedor/Designer Web",
+				"members": [
+					"Jesse Morgan"
+				]
+			}
+		]
+	},
+	"pageMaximum9": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "Analista Financeiro Sênior e Gerente de Inteligência de Negócios",
+				"members": [
+					"Boris Jokic"
+				]
+			},
+			{
+				"title": "Líder de Dados Sênior",
+				"members": [
+					"Sean Willett"
+				]
+			},
+			{
+				"title": "Analistas de Negócios/Dados",
+				"members": [
+					"Andrew Waetzig",
+					"Collin Kennedy",
+					"Hana Oshima"
+				]
+			},
+			{
+				"title": "Estagiário de Dados",
+				"members": [
+					"Yusuf Ghaleb"
+				]
+			}
+		]
+	},
+	"pageMaximum10": {
+		"sections": [
+			{
+				"title": "Diretor de Gestão de Contas",
+				"members": [
+					"Elizabeth Crowel"
+				]
+			},
+			{
+				"title": "Diretor de Varejo da América do Norte",
+				"members": [
+					"Ana Raphael"
+				]
+			},
+			{
+				"title": "Diretor de Vendas - Reino Unido e EMEA",
+				"members": [
+					"Gareth Hives"
+				]
+			}
+		]
+	},
+	"pageMaximum11": {
+		"sections": [
+			{
+				"title": "Gerente de Contas Nacionais - Reino Unido e EMEA",
+				"members": [
+					"Annabel Landeryou"
+				]
+			},
+			{
+				"title": "Diretor Global de Parcerias",
+				"members": [
+					"Debbie Hives"
+				]
+			},
+			{
+				"title": "Gerente de Vendas Digitais",
+				"members": [
+					"Kirill Borisov"
+				]
+			}
+		]
+	},
+	"pageMaximum12": {
+		"sections": [
+			{
+				"title": "Gerentes de Parcerias",
+				"members": [
+					"Ronnie Ferrans",
+					"Nathan Paine"
+				]
+			},
+			{
+				"title": "Gerente Associado de Contas",
+				"members": [
+					"Nicole Neckritz"
+				]
+			}
+		]
+	},
+	"pageMaximum13": {
+		"sections": [
+			{
+				"title": "Vice-Presidente de Operações",
+				"members": [
+					"Josh Langell"
+				]
+			},
+			{
+				"title": "Especialista de Operações",
+				"members": [
+					"Kyndra Bowen"
+				]
+			},
+			{
+				"title": "Gerente de Compras",
+				"members": [
+					"Kevin Galloway"
+				]
+			},
+			{
+				"title": "Gerente de Operações",
+				"members": [
+					"Jeremy Legerot"
+				]
+			}
+		]
+	},
+	"pageMaximum14": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"sections": [
+			{
+				"title": "Assistente de Armazém",
+				"members": [
+					"Yelena Tverdokhleb"
+				]
+			},
+			{
+				"title": "Aprendiz (Web)",
+				"members": [
+					"Lamis Rafrafi"
+				]
+			},
+			{
+				"title": "Supervisor de Remessas",
+				"members": [
+					"Caleb Langell"
+				]
+			},
+			{
+				"title": "Diretor de TI",
+				"members": [
+					"Trevor Seelye"
+				]
+			},
+			{
+				"title": "Gerentes de TI",
+				"members": [
+					"Stefan Radulescu",
+					"Ákos Diviánszky"
+				]
+			},
+			{
+				"title": "Associado de Suporte de TI",
+				"members": [
+					"Jon Westland"
+				]
+			}
+		]
+	},
+	"pageMaximum16": {
+		"sections": [
+			{
+				"title": "Diretor de Operações de Pessoas Globais",
+				"members": [
+					"Emily Shepherd"
+				]
+			},
+			{
+				"title": "Gerente Sênior de Operações de Pessoas Globais",
+				"members": [
+					"Lauren Helling"
+				]
+			},
+			{
+				"title": "Gerente de Escritório",
+				"members": [
+					"Alicia Gomez"
+				]
+			}
+		]
+	},
+	"pageMaximum17": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"sections": [
+			{
+				"title": "Diretor Sênior de Contabilidade e Consolidação de Grupo",
+				"members": [
+					"Helen Smith"
+				]
+			},
+			{
+				"title": "Gerente de Contabilidade de Grupo",
+				"members": [
+					"Lulu Huang"
+				]
+			},
+			{
+				"title": "Contadores Sêniores",
+				"members": [
+					"Carola Kärrholm",
+					"Andrew Britton",
+					"Ian Shirley"
+				]
+			},
+			{
+				"title": "Contador de Equipe",
+				"members": [
+					"Lucy Hassan",
+					"Karina Flores"
+				]
+			},
+			{
+				"title": "Assistente de Contabilidade",
+				"members": [
+					"Dounia Mohamedi"
+				]
+			}
+		]
+	},
+	"pageMaximum18": {
+		"sections": [
+			{
+				"title": "Associado de Operações de Vendas",
+				"members": [
+					"Leah Brighton"
+				]
+			},
+			{
+				"title": "Conselheiro Jurídico Associado Interno",
+				"members": [
+					"Andrew Miller"
+				]
+			},
+			{
+				"title": "Chefe de Vendas",
+				"members": [
+					"Philippe Cohen"
+				]
+			},
+			{
+				"title": "Diretor de Vendas, França",
+				"members": [
+					"Marc Nivelle"
+				]
+			}
+		]
+	},
+	"pageMaximum19": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"sections": [
+			{
+				"title": "Gerentes de Conta, DTC",
+				"members": [
+					"Timéo Albert",
+					"Catherine Villain"
+				]
+			},
+			{
+				"title": "Diretor de Conta, Digital",
+				"members": [
+					"Eric Martin"
+				]
+			},
+			{
+				"title": "Gerente de Conta, Digital",
+				"members": [
+					"Harmony Rouif"
+				]
+			},
+			{
+				"title": "Gerente Sênior de Parcerias",
+				"members": [
+					"Christèle Bégoc"
+				]
+			},
+			{
+				"title": "Gerente de PR e Mídias Sociais",
+				"members": [
+					"Thibaud Ligneul"
+				]
+			},
+			{
+				"title": "Gerente de Contas de Vendas",
+				"members": [
+					"Jimmy Renault"
+				]
+			},
+			{
+				"title": "Aprendiz (Web)",
+				"members": [
+					"Delphine Barailla"
+				]
+			}
+		]
+	},
+	"pagePortingPS5Branding": {
+		"sections": [
+			{
+				"title": "Portabilidade - PlayStation® 5",
+				"members": [
+					"Sickhead Games, LLC"
+				]
+			},
+			{
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/logo_sickhead.png",
+					"size": "360"
+				}
+			}
+		]
+	},
+	"pageLocBranding": {
+		"sections": [
+			{
+				"title": "Localização",
+				"members": [
+					"Allcorrect"
+				]
+			},
+			{
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/logo_allcorrect.png",
+					"size": "480"
+				}
+			}
+		]
+	},
+	"pageLoc1": {
+		"sections": [
+			{
+				"title": "Linguistas - Espanhol",
+				"members": [
+					"Iago Álvarez Graña",
+					"Arturo Pérez Ortega",
+					"Sergio Hernández"
+				]
+			},
+			{
+				"title": "Linguistas - Italiano",
+				"members": [
+					"Federico Odorizzi",
+					"Giulia Merlo",
+					"Chiara Di Modica",
+					"Alessandro Mannara"
+				]
+			}
+		]
+	},
+	"pageLoc2": {
+		"sections": [
+			{
+				"title": "Linguistas - Alemão",
+				"members": [
+					"Ramona Kuh",
+					"Chris Bermond",
+					"Susanne Weißgerber"
+				]
+			},
+			{
+				"title": "Linguistas - Francês",
+				"members": [
+					"Jennifer George",
+					"Théo Le Duc",
+					"Grégory BARDIN"
+				]
+			}
+		]
+	},
+	"pageLoc3": {
+		"sections": [
+			{
+				"title": "Linguistas - Chinês Simplificado",
+				"members": [
+					"Melanie Chen",
+					"Yi Wang",
+					"Ma Mofan \"Sirius Wolf\"",
+					"Lin Feiyang \"Luminous\""
+				]
+			},
+			{
+				"title": "Linguistas - Japonês",
+				"members": [
+					"Narumi Taniguchi",
+					"Asako Toyoki",
+					"Emma Tanaka"
+				]
+			}
+		]
+	},
+	"pageLoc4": {
+		"sections": [
+			{
+				"title": "Linguistas - Filipino",
+				"members": [
+					"Roland Jesus Guno",
+					"Bernie Mijares"
+				]
+			}
+		]
+	},
+	"pageLqaBranding": {
+		"sections": [
+			{
+				"title": "QA de Localização",
+				"members": [
+					"Testronic"
+				]
+			},
+			{
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/logo_testronic.png",
+					"size": "400"
+				}
+			}
+		]
+	},
+	"pageLqa1": {
+		"sections": [
+			{
+				"title": "Diretor de Serviços",
+				"members": [
+					"Erik Hittenhausen"
+				]
+			},
+			{
+				"title": "Diretor de QA de Localização",
+				"members": [
+					"Gaëlle Caballero"
+				]
+			},
+			{
+				"title": "Gerente Sênior de QA de Localização",
+				"members": [
+					"Valentina Mollica"
+				]
+			}
+		]
+	},
+	"pageLqa2": {
+		"use_long_format": true,
+		"use_blocks": true,
+		"max_block_columns": 2,
+		"sections": [
+			{
+				"title": "Gerentes de QA de Localização",
+				"members": [
+					"Joan Provencio",
+					"Krzysztof Orlikowski"
+				]
+			},
+			{
+				"title": "Gerente de Programas de QA de Localização",
+				"members": [
+					"Jouhaina Ramy"
+				]
+			},
+			{
+				"title": "Gerentes de Projetos de QA de Localização",
+				"members": [
+					"Thomas Sato Gibson",
+					"Jamie Kelly-Warwick"
+				]
+			},
+			{
+				"title": "Líderes de Projetos de QA de Localização",
+				"members": [
+					"Elif Cansın Kul",
+					"Patricia Rivera Villegas"
+				]
+			},
+			{
+				"title": "Líder Associado de Projetos de QA de Localização",
+				"members": [
+					"Kostiantyn Gorokhovskykh"
+				]
+			}
+		]
+	},
+	"pageLqa3": {
+		"sections": [
+			{
+				"title": "Técnicos de QA de Localização",
+				"members": [
+					"Achraf Alloula",
+					"Aidan Phoenix",
+					"Álvaro Saavedra Jeno",
+					"Camilla De Leonardis",
+					"Derrick Okyere",
+					"Igor Frühauf",
+					"Jonathan Snook",
+					"Katharina Frind",
+					"Marine Letuppe"
+				]
+			}
+		]
+	},
+	"pageLqa4": {
+		"sections": [
+			{
+				"title": "Técnicos de QA de Localização",
+				"members": [
+					"Melissa Robles",
+					"Miguel Ángel Cordero Marcos",
+					"Milena Milanović",
+					"Saad Hakim",
+					"Sophie Louise Gerber",
+					"Tamara Nikolić",
+					"Xinyu Lu",
+					"Yuki Onji"
+				]
+			}
+		]
+	},
+	"pageSpecialThanks1": {
+		"sections": [
+			{ "members": ["CRED_SPECIAL_THANKS"] },
+			{ "title": "Frank Meijer" },
+			{ "title": "Rachel Heleva" },
+			{ "title": "Jeff Chiarelli" },
+			{ "title": "John Mulligan" },
+			{ "title": "Kael Barend" }
+		]
+	},
+	"pageSpecialThanks2": {
+		"sections": [
+			{ "members": ["CRED_SPECIAL_THANKS"] },
+			{ "title": "Indie Games Group Philippines" },
+			{ "title": "Virtual SEA" },
+			{ "title": "GameDevPH" },
+			{ "title": "SEAGamethetic" },
+			{ "title": "Líder Regional da Escola de Artes em Angono" },
+			{ "title": "Godot Foundation" },
+			{ "title": "Maximum Entertainment Playtesters" },
+			{ "title": "Nossos amigos e familiares" }
+		]
+	},
+	"pageCcBy": {
+		"sections": [
+			{ "members": ["CC-BY Attribution"] },
+			{ "title": "CERN - Fotografias das trilhas das partículas em uma câmara de bolhas" },
+			{ "title": "Chiara Bertoglio - Impromptu nº 3 em Sol bemol maior, D. 899" },
+			{ "title": "Freesound - pfranzen - Batendo no teclado de um computador" },
+			{ "title": "Freesound - pfranzen - Pegando uma única folha de papel" },
+			{ "title": "Freesound - FunWithSound - Quebra e destruição em grande escala" },
+			{ "title": "Freesound - InspectorJ - Palmo, Único, 16" },
+			{ "title": "Matthew Yohe - Retrato de Steve Jobs, 2010" },
+			{ "title": "Themanilaxperience - BGC High Street à noite" },
+			{ "title": "X Corp. - Twemoji" }
+		]
+	},
+	"pageFmod": {
+		"sections": [
+			{
+				"title": "CRED_FMOD",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/fmod.png",
+					"size": "500"
+				}
+			}
+		]
+	},
+	"pageInk": {
+		"sections": [
+			{
+				"title": "CRED_DIALOGUE",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/ink_inkle.png",
+					"size": "200"
+				}
+			}
+		]
+	},
+	"pageGodot": {
+		"sections": [
+			{
+				"title": "CRED_MADE_WITH",
+				"image": {
+					"path": "res://scenes/_cutscenes/credits/assets/godot_engine.png",
+					"size": "400"
+				}
+			}
+		]
+	},
+	"pageThanks": {
+		"sections": [
+			{
+				"title": "CRED_THANK_YOU"
+			}
+		]
+	},
+	"pageCopyright": {
+		"sections": [
+			{
+				"title": "CRED_COPYRIGHT"
+			}
+		]
+	}
+}

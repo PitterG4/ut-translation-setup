@@ -1,0 +1,120 @@
+{
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "Economia mundial se recupera à medida que atividades empresariais crescem, diz DAES PU",
+                        "description": "A economia mundial começou a se recuperar após o impacto desastroso do Grande Abalo, de acordo com um relatório divulgado na segunda-feira pelo Departamento de Assuntos Econômicos e Sociais dos Países Unidos (DAES PU), citando indicadores de atividades empresariais impulsionados pelos esforços de reabilitação liderados por líderes mundiais, com foco na geração de empregos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Especial] Revelando os segredos mais bem guardados de Liamson",
+                        "description": "Conhecida como a capital gastronômica da nação, a cidade de Liamson é amplamente reconhecida como um dos melhores lugares do país para satisfazer o paladar.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Astro de cinema Manuel Sikatin anuncia candidatura à presidência em 2016",
+                        "description": "Parece que ninguém se cansou ainda de ter estrelas de filmes de sucesso governando o país.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Opinião] Carros elétricos: Uma mudança banal",
+                        "description": "Estudos mostram que veículos elétricos, embora excelentes em muitos aspectos, praticamente não contribuem no combate ao aquecimento global.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Presidente Cojuangco promete mais projetos de habitação e renovação",
+                        "description": "A Força-Tarefa Interagencial de Recuperação do \"Abalo\" pretende concluir, no primeiro trimestre do próximo ano, todos os projetos habitacionais e reformas destinados aos sobreviventes, incluindo 15.000 salas de aula e a reforma de uma passarela avaliada em 20 milhões de pesos filipinos, afirmou o presidente Fernando Cojuangco durante uma entrevista.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Presidente Cojuangco: Evacuação das vítimas do Grande Abalo segue sem problemas",
+                        "description": "O gabinete presidencial divulgou um comunicado sobre os esforços atuais do governo para oferecer novos e seguros abrigos às vítimas do Grande Abalo, além de atender outras necessidades humanitárias.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: Híbrido de manga e banana passa por testes em humanos",
+                        "description": "O secretário de Saúde Frankie Santos IX anunciou que a primeira etapa de testes do híbrido de manga e banana em humanos foi iniciada recentemente.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "Diretor da SEC, Venecia, apresenta demandas a executivos do governo",
+                        "description": "Mesmo após um ano desde a abolição do FADB, a NCI continua a expor cada vez mais políticos e empresários envolvidos no escândalo do fundo público FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Senador enfrenta acusações de lavagem de dinheiro em meio a escândalo de fundo público",
+                        "description": "A Suprema Corte indiciou o suposto patrocinador do esquema de desvio de fundos, senador Alamano Mercado, e quatro de seus funcionários por desvio de fundos públicos em um esquema de suborno e fraude no âmbito do FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Chefe da polícia questiona compra de vacina superfaturada",
+                        "description": "O chefe de polícia, general Somara Buendia, questionou na quinta-feira o secretário de Saúde, Dr. Frankie Santos, sobre a compra de 1 milhão de kits de vacinas ao preço de 2.500 pesos cada, em comparação com o valor médio de mercado de aproximadamente 1.000 pesos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Vítimas do Grande Abalo em Bayanan criticam resposta lenta à crise",
+                        "description": "Na província de Bayanan, em Luzon Central, cerca de 120 pescadores e agricultores locais se reuniram em frente à Unidade de Resposta à Crise Local para protestar contra a resposta negligente e lenta à calamidade.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Linha do tempo: ”O Grande Abalo“ nas Filipinas",
+                        "description": "No dia 12 de fevereiro de 2014, um fenômeno inexplicável eclodiu em todo o mundo quando uma série de desastres naturais atingiu diversas partes do planeta simultaneamente, por um período de seis horas.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Linha do tempo: Escândalo do fundo público FADB",
+                        "description": "Linha do tempo do escândalo do fundo público FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        }
+    }
+}

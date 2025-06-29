@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "Selon le DAES de l'OPU, l'économie mondiale récupère et les activités commerciales croissent",
+                        "description": "Ce lundi, le Département des Affaires Économiques et Sociales de l'Organisation des Pays Unis a publié un nouveau rapport, selon lequel l'économie mondiale commence à se remettre de l'impact colossal du Décret. Source à l'appui : les indicateurs des activités commerciales résultant des efforts de réhabilitation sur le plan de l'emploi menés par les dirigeants mondiaux.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[À la une] Nous révélons les secrets les mieux gardés de Liamson",
+                        "description": "Souvent surnommée la « capitale de la gastronomie », la ville de Liamson est réputée dans tout le pays pour ses nombreux plats capables de ravir toutes les papilles.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Manuel Sikatin, star du cinéma, prévoit de candidater aux élections présidentielles de 2016",
+                        "description": "On dirait que les Philippines ne se lassent pas d'avoir des stars de blockbusters à la tête du gouvernement.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Face à la résurgence des victimes du Décret, les hôpitaux du Grand Manille peinent à accueillir",
+                        "description": "Plus d'un tiers des hôpitaux du Grand Manille sont à pleine capacité tandis qu'une vague de réfugiés, victimes du Décret, arrive du nord. Les arrivées de réfugiés se sont multipliées depuis la réouverture récente des autoroutes, jusqu'ici en travaux.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "La jeunesse LGBTQ+ proteste contre les discriminations",
+                        "description": "Les jeunes dirigeants et bénévoles de l'association Amour pour Tous s'insurgent contre la discrimination dans leur dernier appel à l'action.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Après la reconstruction des autoroutes, une nouvelle vague de victimes du Décret se réfugient",
+                        "description": "En réponse à la reconstruction des autoroutes et des axes routiers, les victimes originaires des zones frappées par le séisme de magnitude 8,2 de Makarito migrent en masse vers la capitale, où elles espèrent recevoir des soins et des traitements.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Opinion] Voitures électriques : une transition inepte",
+                        "description": "Une étude récente a prouvé que, malgré leurs avantages, les véhicules électriques n'ont aucun impact bénéfique sur le dérèglement climatique.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Le président Cojuangco promet davantage de logements et de projets de rénovation",
+                        "description": "Le comité de réflexion interagence pour le rétablissement post-Décret a bon espoir de terminer tous les projets de logement et de rénovation destinés aux survivants d'ici le premier trimestre de l'année prochaine. Lors d'une interview, le président Fernando Cojuangco a annoncé que ces projets incluaient 15 000 salles de classe, ainsi qu'une passerelle d'un montant de 20 millions de pesos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Président Cojuangco : « L'évacuation des victimes du Décret progresse sans encombre. »",
+                        "description": "Le bureau présidentiel a publié une déclaration dévoilant les efforts actuellement déployés par le gouvernement pour offrir aux victimes du Décret des abris neufs, sécurisés, ainsi que d'autres aides humanitaires.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos : le croisement mangue-banane passe en phase de tests sur les humains",
+                        "description": "Frankie Santos IX, ministre de la Santé, a annoncé que la première phase de test sur les humains de l'hybride mangue-banane avait récemment débuté.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "La directrice Venecia du SEC soumet des demandes aux représentants du gouvernement",
+                        "description": "Plus d'un an après l'abolition du FADE, le NCI continue de révéler l'implication de nouvelles personnalités politiques et financières dans le scandale du baril de porc du FADE.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Sénateur accusé de détournement d'argent lors du scandale du baril de porc",
+                        "description": "La Cour suprême a inculpé le sénateur Alamano Mercado et quatre de ses employés de participation au scandale du baril de porc. Les cinq suspects auraient usé de pots-de-vin et de fraude pour détourner les fonds publics du FADE.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Le chef de la police remet en doute l'achat de vaccins hors de prix",
+                        "description": "Ce jeudi, le général Somara Buendia, chef de la police, a remis en doute la décision du ministre de la Santé, Dr Frankie Santos, d'acheter 1 million de kits de vaccins à 2 500 P chacun, face à un prix du marché moyen de 1 000 P.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Les victimes du Décret de Bayanan condamnent une réponse lente à la crise",
+                        "description": "Dans la province de Bayanan, située au centre de Luzon, pas moins de 120 pêcheurs et agriculteurs se sont rassemblés devant le bureau de réponse aux crises local pour décrier une réponse molle et imprudente à la calamité.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor lance sa collection thématique de Noël",
+                        "description": "Pour Noël, distinguez-vous des normies et restez BG avec la collection des fêtes de ForeverColor !",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife aide les centres d'évacuation à célébrer Noël",
+                        "description": "Ce Noël, les centres d'évacuation célèbrent l'espoir et l'amour malgré des temps troublés grâce aux dons et aux volontaires de Greenlife.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "Le président Cojuangco fête Noël sobrement avec sa famille proche",
+                        "description": "Pour Noël, le président Cojuangco est retourné aux racines de sa campagne présidentielle et a reconnecté avec son peuple en dînant simplement dans l'intimité de sa famille.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Opinion] Le danger des « Fake News »",
+                        "description": "C'est le pouvoir de la désinformation. C'est le prix de la désinformation.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Chronologie : Le Décret aux Philippines",
+                        "description": "Le 12 février 2014, un phénomène inexpliqué s'est manifesté aux quatre coins du monde : une série de catastrophes naturelles a simultanément frappé diverses régions du monde en l'espace de 6 heures.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Chronologie : le scandale du baril de porc du FADE",
+                        "description": "Chronologie du scandale du baril de porc du FADE.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Les conseils locaux des Visayas orientales multiplient les projets de lutte contre les inondations",
+                    "description": "Les conseils locaux multiplient leurs efforts et s'associent aux organisations à but non lucratif et bénévoles afin de construire de petites communautés et loger les victimes.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "Gestion du fonds de réhabilitation de 69 milliards de pesos : « Sans commentaire », répond la vice-présidente Diosdado",
+                    "description": "Interrogée sur la manière dont le fonds de réhabilitation de 69 milliards de pesos aurait été dépensé en l'espace d'une semaine, Diosdado a répondu en guise de seule divulgation « Sans commentaire ».",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "Pénurie de soins en Luzon centrale : « Sans commentaire », répond la vice-présidente Diosdado",
+                    "description": "Interrogée sur la pénurie constante qui frappe les services de santé dans une partie des Visayas et en Luzon centrale malgré la demande grandissante, Diosdado a répondu « Sans commentaire ».",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "Montée en popularité de la vice-présidente Diosdado : « Je suis juste au service du peuple »",
+                    "description": "Garci Gloria, assistant-secrétaire au BVP, a répondu aux inquiétudes concernant « la santé de la vice-présidente », et a assuré au public que cette dernière était en bonne santé.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "Selon le DAES de l'OPU, l'économie mondiale ne montre aucun signe de rétablissement",
+                    "description": "Ce lundi, le Département des Affaires Économiques et Sociales de l'Organisation des Pays Unis a publié un nouveau rapport, selon lequel l'économie mondiale n'avait pas encore montré le moindre signe de rétablissement. Sources à l'appui : les indicateurs des activités commerciales et d'emploi mondiaux ont à peine évolué depuis février 2014.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "EN : 3 bâtiments scolaires sur 4 requièrent des réparations",
+                    "description": "Une étude nationale a révélé une statistique inquiétante : près de 75 % des bâtiments scolaires du pays, de l'éducation primaire à l'éducation supérieure, requièrent des réparations.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "Les employés gouvernementaux évacuent dans d'anciens bâtiments publics",
+                    "description": "Des employés gouvernementaux travaillant dans différents bâtiments publics, pour la plupart construits dans la première moitié du 20e siècle, évacuent à partir d'aujourd'hui, suite aux inquiétudes croissantes concernant la sécurité des structures.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "La ligne KRT-3 est de nouveau fermée, forçant les passagers à marcher sur les voies",
+                    "description": "Toutes les gares de la ligne KRT-3 ont été fermées suite à un incident faisant actuellement l'objet d'une enquête menée par les représentants du métro et ses ingénieurs.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "Le Décret est un coup monté",
+                "description": "Vous ne me croyez pas ? Voici les faits.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "企業活動の成長に従い、世界経済は回復しつつあるとUC DESA",
+                        "description": "UC経済社会局が月曜日に発表した報告書によると、世界経済は裁定による悲惨な影響から回復し始めており、その理由として、世界の指導者たちが雇用の回復に力を注いでいることを受けた企業活動の指標を挙げている。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "［特集］共鳴するリアムソンの奥深く隠された秘密",
+                        "description": "国の食の都と呼ばれるリアムソン市は、人々の味覚を最高に満足させる場所のひとつとしてよく知られている。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "映画俳優マヌエル・シカティン、2016年大統領選に出馬",
+                        "description": "どうやら、大ヒット映画の俳優が国を治めることについて、うんざりしている人はいないようだ。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "裁定による被害の増大により、首都圏の病院がほぼ満員に",
+                        "description": "新しく再建された高速道路の開通によって北部から裁定の被害者が殺到し、マニラ首都圏の3分の1以上の病院が満床に近い状態である。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "LGBTQ+の若者たちが差別に対して声をあげる",
+                        "description": "ラブ・フォー・オールの青年リーダーやボランティアたちは、最新の呼びかけの中でこのことに注意を喚起している。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "増大する裁定の被害者、高速道路再建とともに避難",
+                        "description": "高速道路や主要道路の復興に続き、マカリートで発生したマグニチュード8.2の地震で被災した人々が、広範囲の医療や治療のために首都に押し寄せている。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "［社説］電気自動車：無意味な転換",
+                        "description": "調査によると、電気自動車（EV）はさまざまな面で優れているが、地球温暖化対策としては事実上何の効果もない。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "コファンコ大統領、さらなる住宅および改修事業を約束",
+                        "description": "「裁定」復興のための省庁間タスクフォースは、15,000の教室と2,000万ペソ相当の歩道橋改修プロジェクトを含む、被災者向けのすべての住宅プロジェクトと改修工事を来年の第1四半期に完了させることを視野に入れている、とフェルナンド・コファンコ大統領はインタビューで語った。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "コファンコ大統領：裁定被害者の避難は順調",
+                        "description": "大統領執務室は、裁定被害者の安全な新しい避難所およびその他の人道的な必要品の提供を行う政府の現在の努力について、声明を発表した。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "サントス：マンゴー・バナナハイブリッドは人間に対して試験を実施中",
+                        "description": "フランキー・サントス9世保健省長官は、マンゴーとバナナのハイブリッドの人体実験の第一段階が最近始まったと発表した。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "SECヴェネシア会長、政府中枢部への要求を表明",
+                        "description": "基礎開発援助基金（BDAF）の廃止から1年が経った今も、国家調査委員会はBDAFポークバレル・スキャンダルに関与した政治家や実業家を次々と摘発している。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "上院議員、ポークバレル・スキャンダルにおいてマネーロンダリングの告発に直面",
+                        "description": "最高裁判所は、ポークバレル詐欺の後ろ盾とされるアラマノ・メルカド上院議員とそのスタッフ4人を、基礎開発援助基金（BDAF）の下で賄賂と詐欺を駆使して公的資金を得たとし、起訴した。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "警察長官、高額ワクチン購入で質問",
+                        "description": "ソマラ・ブエンディア警察長官は木曜日、保健長官であるフランキー・サントス博士に対し、平均市場価格約1,000ペソのワクチンキットを1セット2,500ペソで100万セット購入したことについて質問した。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "バヤーナンの裁定被害者、危機への対応の鈍さを非難",
+                        "description": "ルソン島中部のバヤーナン地区では、地元の漁師や農民約120人が危機対応事務所の前に集まり、災害に対する対応の無責任さと遅さに対して声を上げた。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "フォーエバーカラー、クリスマステーマのコレクションを発表",
+                        "description": "このクリスマス、フォーエバーカラーのホリデーコレクションで人に差をつけ、誰よりもお洒落に！",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "グリーンライフ、避難センターのクリスマスを支援",
+                        "description": "避難センターでは今年のクリスマス、グリーンライフからの寄付とボランティアの協力のもと、困難な時期における希望と愛を祝う。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "コファンコ大統領、家族と質素なクリスマスを楽しむ",
+                        "description": "今年のクリスマス、コファンコ大統領は大統領選挙期間の原点に忠実であり続け、最も信頼する家族とシンプルなディナーを楽しむことで、普通の人々との繋がりを深めた。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "［社説］フェイクニュースの危険",
+                        "description": "これが偽情報の威力だ。これが偽情報の代償である。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "タイムライン：フィリピンの裁定",
+                        "description": "2014年2月12日、多数の自然災害が6時間にわたって世界各地を同時に襲い、原因不明の現象が世界中で勃発した。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "タイムライン：BDAFポークバレル詐欺",
+                        "description": "BDAFポークバレル詐欺の時系列。",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "東部ヴィサヤ諸島の地方自治体、洪水被害復興計画を策定",
+                    "description": "地方自治体は復旧活動を強化し、非営利団体やボランティア団体と提携して、被災者に住居を提供するために小型コミュニティを建設している。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "ディオスダド副大統領、復興資金690億の使用にノーコメント",
+                    "description": "1週間とされる期間に690億ペソの復興資金がどのように使われたのかについて質問されると、ディオスダドは「ノーコメント」と答えた。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "ディオスダド副大統領、ルソン中部の医療不足にノーコメント",
+                    "description": "中部ルソンとヴィサヤ諸島の一部で需要が増す医療サービスの不足が継続していることについて質問されると、ディオスダドは、「ノーコメント」と答えた。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "ディオスダド副大統領、自身の支持率上昇に対し「国民に奉仕するのみ」",
+                    "description": "副大統領府のガルシ・グロリア次席補佐官は副大統領の「最近の健康上の懸念」の状況に言及し、ディオスダド副大統領は健康であると国民を安心させた。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "UC DESA「世界経済は回復の兆しを未だ見せず」",
+                    "description": "UC経済社会局が月曜日に発表した報告書によると、世界経済は裁定による悲惨な影響から未だ回復の兆しを見せておらず、2014年2月の暴落以来、企業活動と世界の雇用指標はほとんど動いていない。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "DE：学校の4分の3で、校舎に修理の必要",
+                    "description": "全国的な評価では、初等教育から高等教育まで、全国の約75%の校舎に修繕の必要性があることが明らかになった。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "政府の旧建造物で公務員の避難進行中",
+                    "description": "主に1900年代前半から半ばに建設された歴史的な政府庁舎数棟で働く政府職員は、構造上の安全性に対する懸念の高まりを受けて、今日から避難を強いられている。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "KRT-3再閉鎖により、乗客は線路の歩行を余儀なくされる",
+                    "description": "KRT-3の全駅は、事故を受け、現在、同高速鉄道の職員と技術者が調査中であるため、運行を停止している。",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "裁定はデマ",
+                "description": "信じられない？事実はこうです。",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}

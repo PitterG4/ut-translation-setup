@@ -1,0 +1,38 @@
+{
+  "paths": {
+    "pre_opening": "res://scenes/_cutscenes/pre_opening/PreOpening.tscn",
+    "credits": "res://scenes/_cutscenes/credits/Credits.tscn",
+    "1.1a": "res://scenes/_main/ch1sc1a/Ch1Sc1a.tscn",
+    "1.1b": "res://scenes/_main/ch1sc1b/Ch1Sc1b.tscn",
+    "1.1c": "res://scenes/_main/ch1sc1c/Ch1Sc1c.tscn",
+    "1.2": "res://scenes/_main/ch1sc2/Ch1Sc2.tscn",
+    "1.3": "res://scenes/_main/ch1sc3/Ch1Sc3.tscn",
+    "1.4": "res://scenes/_main/ch1sc4/Ch1Sc4.tscn",
+    "1.5a": "res://scenes/_main/ch1sc5a/Ch1Sc5a.tscn",
+    "1.6": "res://scenes/_main/ch1sc6/Ch1Sc6.tscn",
+    "1.7b": "res://scenes/_main/ch1sc7b/Ch1Sc7b.tscn",
+    "1.7c": "res://scenes/_main/ch1sc7c/Ch1Sc7c.tscn",
+    "1.7e": "res://scenes/_main/ch1sc7e/Ch1Sc7e.tscn",
+    "1.8": "res://scenes/_main/ch1sc8/Ch1Sc8.tscn"
+  },
+  "chapters": [
+    {
+      "name": "SCENEDIR_CH1",
+      "scenes": [
+        { "key": "1.1a", "name": "SCENEDIR_CH1_SC1A" },
+        { "key": "1.1b", "name": "SCENEDIR_CH1_SC1B" },
+        { "key": "1.1c", "name": "SCENEDIR_CH1_SC1C" },
+        { "key": "1.2", "name": "SCENEDIR_CH1_SC2" },
+        { "key": "1.3", "name": "SCENEDIR_CH1_SC3" },
+        { "key": "1.4", "name": "SCENEDIR_CH1_SC4" },
+        { "key": "1.5a", "name": "SCENEDIR_CH1_SC5A" },
+        { "key": "1.6", "name": "SCENEDIR_CH1_SC6" },
+        { "key": "1.7b", "name": "SCENEDIR_CH1_SC7B" },
+        { "key": "1.7c", "name": "SCENEDIR_CH1_SC7C" },
+        { "key": "1.7e", "name": "SCENEDIR_CH1_SC7E" },
+        { "key": "1.8", "name": "SCENEDIR_CH1_SC8" },
+        { "key": "credits", "name": "SCENEDIR_END_CREDITS" }
+      ]
+    }
+  ]
+}

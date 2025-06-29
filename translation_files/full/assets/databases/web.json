@@ -1,0 +1,270 @@
+{
+    "doogle.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        }
+    },
+    "liamsontimes.com.ph": {
+        "2014": {
+            "11": {
+                "bangon-ekonomiya-8342": {
+                    ".": {
+                        "title": "Economia mundial se recupera à medida que atividades empresariais crescem, diz DAES PU",
+                        "description": "A economia mundial começou a se recuperar após o impacto desastroso do Grande Abalo, de acordo com um relatório divulgado na segunda-feira pelo Departamento de Assuntos Econômicos e Sociais dos Países Unidos (DAES PU), citando indicadores de atividades empresariais impulsionados pelos esforços de reabilitação liderados por líderes mundiais, com foco na geração de empregos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9c527f057a3cc8c3392b6418ea9081df.png"
+                    }
+                },
+                "feature-liamson-food-4498": {
+                    ".": {
+                        "title": "[Especial] Revelando os segredos mais bem guardados de Liamson",
+                        "description": "Conhecida como a capital gastronômica da nação, a cidade de Liamson é amplamente reconhecida como um dos melhores lugares do país para satisfazer o paladar.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6820d9bf733735ee8dd091b609eeda8d.png"
+                    }
+                },
+                "film-star-manuel-tanga-9969": {
+                    ".": {
+                        "title": "Astro de cinema Manuel Sikatin anuncia candidatura à presidência em 2016",
+                        "description": "Parece que ninguém se cansou ainda de ter estrelas de filmes de sucesso governando o país.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/6b6808bc7f9bf41dabd414c34b102319.png"
+                    }
+                },
+                "hospitals-near-full-cap-1326": {
+                    ".": {
+                        "title": "Hospitais da RCN próximos ao limite devido a aumento nos casos do Grande Abalo",
+                        "description": "Mais de um terço dos hospitais da Região Metropolitana de Manila estão próximos à capacidade máxima, com o aumento de vítimas do Grande Abalo vindas do norte, em decorrência da abertura de rodovias recém-reconstruídas.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8df1b4e52561d5ab57436aa2e4459555.png"
+                    }
+                },
+                "lgbtq-youth-3744": {
+                    ".": {
+                        "title": "Jovens LGBTQ+ se manifestam contra discriminação",
+                        "description": "Essa é a pauta que os jovens líderes e voluntários da organização Amor para Todos estão destacando em seu mais recente apelo por ação.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/95182f917598b220abf2aed220bffd0f.png"
+                    }
+                },
+                "north-refuge-1226": {
+                    ".": {
+                        "title": "Aumento de vítimas do Grande Abalo buscando refúgio conforme rodovias são reconstruídas",
+                        "description": "Após a reconstrução de rodovias e estradas principais, vítimas das áreas afetadas pelo terremoto de magnitude 8,2 em Makarito estão migrando para a capital em busca de cuidados médicos e tratamentos extensivos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/81e4418dbb5f85abf9799c2b93114ddc.png"
+                    }
+                },
+                "opinion-electric-cars-an-3193": {
+                    ".": {
+                        "title": "[Opinião] Carros elétricos: Uma mudança banal",
+                        "description": "Estudos mostram que veículos elétricos, embora excelentes em muitos aspectos, praticamente não contribuem no combate ao aquecimento global.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/3fda37f885efd7a01b0fcc3753abbb63.png"
+                    }
+                },
+                "pres-cojuangco-pangako-mamamo-1435": {
+                    ".": {
+                        "title": "Presidente Cojuangco promete mais projetos de habitação e renovação",
+                        "description": "A Força-Tarefa Interagencial de Recuperação do \"Abalo\" pretende concluir, no primeiro trimestre do próximo ano, todos os projetos habitacionais e reformas destinados aos sobreviventes, incluindo 15.000 salas de aula e a reforma de uma passarela avaliada em 20 milhões de pesos filipinos, afirmou o presidente Fernando Cojuangco durante uma entrevista.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1d7dbae9c80d736fa2ac52571dd3c6e1.png"
+                    }
+                },
+                "pres-cojuangco-weh-di-nga-1432": {
+                    ".": {
+                        "title": "Presidente Cojuangco: Evacuação das vítimas do Grande Abalo segue sem problemas",
+                        "description": "O gabinete presidencial divulgou um comunicado sobre os esforços atuais do governo para oferecer novos e seguros abrigos às vítimas do Grande Abalo, além de atender outras necessidades humanitárias.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aefeeda41a5556246ff85fb2a5ef2172.png"
+                    }
+                },
+                "santos-mango-banana-6969": {
+                    ".": {
+                        "title": "Santos: Híbrido de manga e banana passa por testes em humanos",
+                        "description": "O secretário de Saúde Frankie Santos IX anunciou que a primeira etapa de testes do híbrido de manga e banana em humanos foi iniciada recentemente.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/1e6df771fc65945a51986c0342fafe2f.png"
+                    }
+                },
+                "sec-director-venecia-2410": {
+                    ".": {
+                        "title": "Diretor da SEC, Venecia, apresenta demandas a executivos do governo",
+                        "description": "Mesmo após um ano desde a abolição do FADB, a NCI continua a expor cada vez mais políticos e empresários envolvidos no escândalo do fundo público FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/14325f8cc3e62f9e7738870cff1984c1.png"
+                    }
+                },
+                "senator-faces-money-dukotz-2967": {
+                    ".": {
+                        "title": "Senador enfrenta acusações de lavagem de dinheiro em meio a escândalo de fundo público",
+                        "description": "A Suprema Corte indiciou o suposto patrocinador do esquema de desvio de fundos, senador Alamano Mercado, e quatro de seus funcionários por desvio de fundos públicos em um esquema de suborno e fraude no âmbito do FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/5684abf72bdca4fc128feded1a820b40.png"
+                    }
+                },
+                "sinita-ni-chief-3874": {
+                    ".": {
+                        "title": "Chefe da polícia questiona compra de vacina superfaturada",
+                        "description": "O chefe de polícia, general Somara Buendia, questionou na quinta-feira o secretário de Saúde, Dr. Frankie Santos, sobre a compra de 1 milhão de kits de vacinas ao preço de 2.500 pesos cada, em comparação com o valor médio de mercado de aproximadamente 1.000 pesos.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/25e7adad65aad171f5142280ffd77a9b.png"
+                    }
+                },
+                "the-ruling-victims-at-bayanan-7311": {
+                    ".": {
+                        "title": "Vítimas do Grande Abalo em Bayanan criticam resposta lenta à crise",
+                        "description": "Na província de Bayanan, em Luzon Central, cerca de 120 pescadores e agricultores locais se reuniram em frente à Unidade de Resposta à Crise Local para protestar contra a resposta negligente e lenta à calamidade.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/8922424340c5c07b60d1409d5583a638.png"
+                    }
+                }
+            },
+            "12": {
+                ".": {
+                    "title": "",
+                    "description": ""
+                },
+                "forever-color-1224": {
+                    ".": {
+                        "title": "ForeverColor lança coleção temática de Natal",
+                        "description": "Neste Natal, destaque-se dos normais e fique na moda com a Coleção Festiva da ForeverColor!",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/aa74e755972bf42202b3742172198045.png"
+                    }
+                },
+                "greenlife-helps-evac-5432": {
+                    ".": {
+                        "title": "Greenlife ajuda centros de evacuação a celebrar o Natal",
+                        "description": "Os centros de evacuação celebram esperança e amor em tempos difíceis com a ajuda de doações e voluntários da Greenlife neste Natal.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75846ed2628dd6899d965785466a8592.png"
+                    }
+                },
+                "kunwari-lang-yan-3220": {
+                    ".": {
+                        "title": "Presidente Cojuangco celebra um Natal simples com a família",
+                        "description": "Neste Natal, o presidente Cojuangco manteve-se fiel às suas raízes do período de campanha presidencial, conectando-se com o homem comum ao aproveitar um jantar simples com sua família.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/62fff65d90808141eab3657cd1452e4f.png"
+                    }
+                },
+                "opinion-fake-news-3531": {
+                    ".": {
+                        "title": "[Opinião] O Perigo das Fake News",
+                        "description": "Este é o poder da desinformação. Este é o preço da desinformação.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/75c105594d71b1d1697eae56772e3c79.png"
+                    }
+                }
+            },
+            "02": {
+                "timeline-the-ruling-1201": {
+                    ".": {
+                        "title": "Linha do tempo: ”O Grande Abalo“ nas Filipinas",
+                        "description": "No dia 12 de fevereiro de 2014, um fenômeno inexplicável eclodiu em todo o mundo quando uma série de desastres naturais atingiu diversas partes do planeta simultaneamente, por um período de seis horas.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/768989fbd3200fb96d1a6f88c8409f73.png"
+                    }
+                }
+            },
+            "08": {
+                "timeline-bdaf-scam-7938": {
+                    ".": {
+                        "title": "Linha do tempo: Escândalo do fundo público FADB",
+                        "description": "Linha do tempo do escândalo do fundo público FADB.",
+                        "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                        "display": "assets/media/9bd54a5d71e4b2bcd86ade503e03c9e5.png"
+                    }
+                }
+            },
+            ".": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "article": {
+            "eastern-visayas-2535": {
+                ".": {
+                    "title": "Governos locais em Visayas Oriental intensificam planos de recuperação de enchentes",
+                    "description": "As unidades do governo local estão intensificando esforços e firmaram parcerias com ONGs e organizações lideradas por voluntários para construir pequenas comunidades para abrigar as vítimas.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/9af59b0134d25f9cadd0cde60eba1bfd.png"
+                }
+            },
+            "vp-diosdado-2000": {
+                ".": {
+                    "title": "Vice-presidente Diosdado sobre gastos do fundo de reabilitação de 69 bilhões de pesos: Sem comentários",
+                    "description": "Quando questionada sobre a possível divulgação de como os 69 bilhões de pesos do fundo de reabilitação foram utilizados em um suposto período de uma semana, a vice-presidente Diosdado respondeu: “Sem comentários.”",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/edd66c24d426e2928daf30fed585fe05.png"
+                }
+            },
+            "vp-diosdado-2001": {
+                ".": {
+                    "title": "Vice-presidente Diosdado sobre a escassez de serviços de saúde em Luzon Central: Sem comentários",
+                    "description": "Quando questionada sobre a contínua escassez frente à crescente demanda por serviços de saúde em Luzon Central e partes de Visayas, a vice-presidente Diosdado respondeu: “Sem comentários.”",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b5ec6750787ac29c50b261200be656fa.png"
+                }
+            },
+            "vp-diosdado-2002": {
+                ".": {
+                    "title": "Vice-presidente Diosdado sobre aumento nos índices de aprovação: Eu sirvo apenas ao povo",
+                    "description": "O assistente da vice-presidência, secretário adjunto Garci Gloria, menciona as “recentes preocupações de saúde” em torno da vice-presidente e tranquiliza o público de que a vice-presidente está saudável.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/3bb2f5eae30bc94ad3facbc6e468a640.png"
+                }
+            },
+            "world-economy-8343": {
+                ".": {
+                    "title": "Economia mundial ainda não mostra sinais de recuperação, diz DAES PU",
+                    "description": "A economia mundial ainda não mostra sinais de recuperação após o impacto desastroso do Grande Abalo. O Departamento de Assuntos Econômicos e Sociais dos Países Unidos (DAES PU) divulgou um relatório na segunda-feira, citando indicadores de atividades econômicas e empregatícias global, que mal se moveram desde o ocorrido em fevereiro de 2014.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/a21ef56e4cf88ec5870a3866ed593f84.png"
+                }
+            }
+        },
+        "news": {
+            "de-magiba-9127": {
+                ".": {
+                    "title": "DE: Três em cada quatro escolas precisam de reparos",
+                    "description": "Uma avaliação nacional revela uma necessidade preocupante de reparos em aproximadamente 75% das escolas do país, desde o ensino primário até o superior.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/b9c15c5ea686ded06dbbda4e8c1a0be5.png"
+                }
+            },
+            "govt-evacuation-4090": {
+                ".": {
+                    "title": "Evacuação de funcionários de prédios históricos do governo em andamento",
+                    "description": "Funcionários do governo que trabalham em vários prédios históricos, em sua maioria construídos entre o início e a metade do século XX, estão sendo evacuados a partir de hoje devido às crescentes preocupações com a segurança estrutural.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/d789cea777a1381b934bcd71a5463c49.png"
+                }
+            },
+            "train-shuts-down-9501": {
+                ".": {
+                    "title": "KRT-3 paralisa novamente, passageiros forçados a caminhar pelos trilhos",
+                    "description": "Todas as estações da linha KRT-3 foram fechadas após um incidente que está sendo investigado por oficiais e engenheiros da linha de trânsito rápido.",
+                    "scene": "ui/screens/Web/TheLiamsonTimes/Article.tscn",
+                    "display": "assets/media/367ce0f317184415f5beb96a64700b19.png"
+                }
+            }
+        }
+    },
+    "mindsalike.com.ph": {
+        ".": {
+            "title": "",
+            "description": ""
+        },
+        "ruling-hoax": {
+            ".": {
+                "title": "O Grande Abalo é uma farsa",
+                "description": "Não acredita em mim? Aqui estão os fatos.",
+                "scene": "ui/screens/Web/MindsAlike/Post.tscn",
+                "display": "assets/media/7454c80cb50e94ad682d24ea684b8864.png"
+            }
+        }
+    }
+}
